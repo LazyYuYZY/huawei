@@ -1,1050 +1,1200 @@
-test 1: no_error_count: 119404, error_count: 0, ARE: 0
-test 2: no_error_count: 119364, error_count: 40, ARE: 2.2812668211083436
-test 3: no_error_count: 119404, error_count: 0, ARE: 0
-test 4: no_error_count: 119404, error_count: 0, ARE: 0
-test 5: no_error_count: 119404, error_count: 0, ARE: 0
-test 6: no_error_count: 119233, error_count: 171, ARE: 2.1145520777814157
-test 7: no_error_count: 119404, error_count: 0, ARE: 0
-test 8: no_error_count: 119396, error_count: 8, ARE: 0.7576081699270416
-test 9: no_error_count: 119396, error_count: 8, ARE: 1.6154106316177876
-test 10: no_error_count: 119404, error_count: 0, ARE: 0
-test 11: no_error_count: 119404, error_count: 0, ARE: 0
-test 12: no_error_count: 119404, error_count: 0, ARE: 0
-test 13: no_error_count: 119404, error_count: 0, ARE: 0
-test 14: no_error_count: 119388, error_count: 16, ARE: 1.8155629431358717
-test 15: no_error_count: 119404, error_count: 0, ARE: 0
-test 16: no_error_count: 119404, error_count: 0, ARE: 0
-test 17: no_error_count: 119404, error_count: 0, ARE: 0
-test 18: no_error_count: 119396, error_count: 8, ARE: 0.9354252081302651
-test 19: no_error_count: 119404, error_count: 0, ARE: 0
-test 20: no_error_count: 119404, error_count: 0, ARE: 0
-test 21: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 22: no_error_count: 119348, error_count: 56, ARE: 1.638441776098525
-test 23: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 24: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 25: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 26: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 27: no_error_count: 119404, error_count: 0, ARE: 0
-test 28: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 29: no_error_count: 119404, error_count: 0, ARE: 0
-test 30: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 31: no_error_count: 116936, error_count: 2468, ARE: 1.9302415951243752
-test 32: no_error_count: 119268, error_count: 136, ARE: 1.6093517518917269
-test 33: no_error_count: 119268, error_count: 136, ARE: 2.5787715406478022
-test 34: no_error_count: 119404, error_count: 0, ARE: 0
-test 35: no_error_count: 119404, error_count: 0, ARE: 0
-test 36: no_error_count: 119404, error_count: 0, ARE: 0
-test 37: no_error_count: 119404, error_count: 0, ARE: 0
-test 38: no_error_count: 119404, error_count: 0, ARE: 0
-test 39: no_error_count: 119404, error_count: 0, ARE: 0
-test 40: no_error_count: 119404, error_count: 0, ARE: 0
-test 41: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 42: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 43: no_error_count: 119404, error_count: 0, ARE: 0
-test 44: no_error_count: 119388, error_count: 16, ARE: 1.703090646991373
-test 45: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 46: no_error_count: 119336, error_count: 68, ARE: 1.7197164626194443
-test 47: no_error_count: 119404, error_count: 0, ARE: 0
-test 48: no_error_count: 119404, error_count: 0, ARE: 0
-test 49: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 50: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 51: no_error_count: 119314, error_count: 90, ARE: 1.8583641867413452
-test 52: no_error_count: 114989, error_count: 4415, ARE: 2.119483286291071
-test 53: no_error_count: 119396, error_count: 8, ARE: 2.2372121075963447
-test 54: no_error_count: 119404, error_count: 0, ARE: 0
-test 55: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 56: no_error_count: 119332, error_count: 72, ARE: 1.6609871742429085
-test 57: no_error_count: 119404, error_count: 0, ARE: 0
-test 58: no_error_count: 119404, error_count: 0, ARE: 0
-test 59: no_error_count: 119404, error_count: 0, ARE: 0
-test 60: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 61: no_error_count: 119396, error_count: 8, ARE: 1.390162414287991
-test 62: no_error_count: 119404, error_count: 0, ARE: 0
-test 63: no_error_count: 119404, error_count: 0, ARE: 0
-test 64: no_error_count: 119404, error_count: 0, ARE: 0
-test 65: no_error_count: 119404, error_count: 0, ARE: 0
-test 66: no_error_count: 119404, error_count: 0, ARE: 0
-test 67: no_error_count: 119387, error_count: 17, ARE: 1.3166337393242233
-test 68: no_error_count: 119379, error_count: 25, ARE: 1.5236642234608784
-test 69: no_error_count: 119404, error_count: 0, ARE: 0
-test 70: no_error_count: 119404, error_count: 0, ARE: 0
-test 71: no_error_count: 119404, error_count: 0, ARE: 0
-test 72: no_error_count: 119404, error_count: 0, ARE: 0
-test 73: no_error_count: 119404, error_count: 0, ARE: 0
-test 74: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 75: no_error_count: 119395, error_count: 9, ARE: 1.5787546168985913
-test 76: no_error_count: 119404, error_count: 0, ARE: 0
-test 77: no_error_count: 119356, error_count: 48, ARE: 1.6335891610032363
-test 78: no_error_count: 119404, error_count: 0, ARE: 0
-test 79: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 80: no_error_count: 119404, error_count: 0, ARE: 0
-test 81: no_error_count: 119404, error_count: 0, ARE: 0
-test 82: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 83: no_error_count: 119384, error_count: 20, ARE: 2.2185915449926283
-test 84: no_error_count: 119340, error_count: 64, ARE: 1.749877359037049
-test 85: no_error_count: 119395, error_count: 9, ARE: 1.1645231322641352
-test 86: no_error_count: 119404, error_count: 0, ARE: 0
-test 87: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 88: no_error_count: 119404, error_count: 0, ARE: 0
-test 89: no_error_count: 119396, error_count: 8, ARE: 0.9266608428388435
-test 90: no_error_count: 119404, error_count: 0, ARE: 0
-test 91: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 92: no_error_count: 119355, error_count: 49, ARE: 2.4959232743439634
-test 93: no_error_count: 119404, error_count: 0, ARE: 0
-test 94: no_error_count: 119395, error_count: 9, ARE: 2.0481568926590086
-test 95: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 96: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 97: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 98: no_error_count: 119404, error_count: 0, ARE: 0
-test 99: no_error_count: 119404, error_count: 0, ARE: 0
-test 100: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 101: no_error_count: 119404, error_count: 0, ARE: 0
-test 102: no_error_count: 119404, error_count: 0, ARE: 0
-test 103: no_error_count: 119380, error_count: 24, ARE: 1.6758647278859382
-test 104: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 105: no_error_count: 119387, error_count: 17, ARE: 1.4404964784553853
-test 106: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 107: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 108: no_error_count: 119404, error_count: 0, ARE: 0
-test 109: no_error_count: 119396, error_count: 8, ARE: 1.664961608738522
-test 110: no_error_count: 119404, error_count: 0, ARE: 0
-test 111: no_error_count: 116678, error_count: 2726, ARE: 2.2543067228742983
-test 112: no_error_count: 119404, error_count: 0, ARE: 0
-test 113: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 114: no_error_count: 119356, error_count: 48, ARE: 0.9993248444785889
-test 115: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 116: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 117: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 118: no_error_count: 119404, error_count: 0, ARE: 0
-test 119: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 120: no_error_count: 119404, error_count: 0, ARE: 0
-test 121: no_error_count: 119404, error_count: 0, ARE: 0
-test 122: no_error_count: 119396, error_count: 8, ARE: 1.9730274954318925
-test 123: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 124: no_error_count: 119404, error_count: 0, ARE: 0
-test 125: no_error_count: 119404, error_count: 0, ARE: 0
-test 126: no_error_count: 119404, error_count: 0, ARE: 0
-test 127: no_error_count: 119395, error_count: 9, ARE: 1.7098328186265614
-test 128: no_error_count: 119332, error_count: 72, ARE: 2.650339248979094
-test 129: no_error_count: 119395, error_count: 9, ARE: 0.9017260331981043
-test 130: no_error_count: 119404, error_count: 0, ARE: 0
-test 131: no_error_count: 119404, error_count: 0, ARE: 0
-test 132: no_error_count: 119388, error_count: 16, ARE: 0.9940369376483873
-test 133: no_error_count: 119395, error_count: 9, ARE: 1.9829388130515828
-test 134: no_error_count: 119404, error_count: 0, ARE: 0
-test 135: no_error_count: 119395, error_count: 9, ARE: 4.041586985127196
-test 136: no_error_count: 119404, error_count: 0, ARE: 0
-test 137: no_error_count: 119404, error_count: 0, ARE: 0
-test 138: no_error_count: 119380, error_count: 24, ARE: 1.057203400853883
-test 139: no_error_count: 119292, error_count: 112, ARE: 1.9478932187455793
-test 140: no_error_count: 119344, error_count: 60, ARE: 3.2177146231387086
-test 141: no_error_count: 119404, error_count: 0, ARE: 0
-test 142: no_error_count: 119404, error_count: 0, ARE: 0
-test 143: no_error_count: 119396, error_count: 8, ARE: 0.7960363939447317
-test 144: no_error_count: 119404, error_count: 0, ARE: 0
-test 145: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 146: no_error_count: 119404, error_count: 0, ARE: 0
-test 147: no_error_count: 119404, error_count: 0, ARE: 0
-test 148: no_error_count: 113735, error_count: 5669, ARE: 2.439087450960773
-test 149: no_error_count: 119404, error_count: 0, ARE: 0
-test 150: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 151: no_error_count: 119404, error_count: 0, ARE: 0
-test 152: no_error_count: 119404, error_count: 0, ARE: 0
-test 153: no_error_count: 119404, error_count: 0, ARE: 0
-test 154: no_error_count: 119404, error_count: 0, ARE: 0
-test 155: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 156: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 157: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 158: no_error_count: 119396, error_count: 8, ARE: 0.9930490620668149
-test 159: no_error_count: 119404, error_count: 0, ARE: 0
-test 160: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 161: no_error_count: 119404, error_count: 0, ARE: 0
-test 162: no_error_count: 119404, error_count: 0, ARE: 0
-test 163: no_error_count: 119395, error_count: 9, ARE: 1.478139203812801
-test 164: no_error_count: 119404, error_count: 0, ARE: 0
-test 165: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 166: no_error_count: 119316, error_count: 88, ARE: 1.7334395564929188
-test 167: no_error_count: 119404, error_count: 0, ARE: 0
-test 168: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 169: no_error_count: 119404, error_count: 0, ARE: 0
-test 170: no_error_count: 119364, error_count: 40, ARE: 2.3239209281926825
-test 171: no_error_count: 119404, error_count: 0, ARE: 0
-test 172: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 173: no_error_count: 119348, error_count: 56, ARE: 1.437847712705614
-test 174: no_error_count: 119404, error_count: 0, ARE: 0
-test 175: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 176: no_error_count: 119396, error_count: 8, ARE: 1.3565003115533738
-test 177: no_error_count: 119404, error_count: 0, ARE: 0
-test 178: no_error_count: 119380, error_count: 24, ARE: 1.9060894551050922
-test 179: no_error_count: 119404, error_count: 0, ARE: 0
-test 180: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 181: no_error_count: 119360, error_count: 44, ARE: 1.8044660406909352
-test 182: no_error_count: 119404, error_count: 0, ARE: 0
-test 183: no_error_count: 119404, error_count: 0, ARE: 0
-test 184: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 185: no_error_count: 119404, error_count: 0, ARE: 0
-test 186: no_error_count: 119404, error_count: 0, ARE: 0
-test 187: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 188: no_error_count: 119404, error_count: 0, ARE: 0
-test 189: no_error_count: 119404, error_count: 0, ARE: 0
-test 190: no_error_count: 119404, error_count: 0, ARE: 0
-test 191: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 192: no_error_count: 119404, error_count: 0, ARE: 0
-test 193: no_error_count: 119404, error_count: 0, ARE: 0
-test 194: no_error_count: 119395, error_count: 9, ARE: 1.1043531008717276
-test 195: no_error_count: 119404, error_count: 0, ARE: 0
-test 196: no_error_count: 119396, error_count: 8, ARE: 2.1434649454379193
-test 197: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 198: no_error_count: 119404, error_count: 0, ARE: 0
-test 199: no_error_count: 119404, error_count: 0, ARE: 0
-test 200: no_error_count: 119356, error_count: 48, ARE: 1.5487835659587432
-test 201: no_error_count: 119387, error_count: 17, ARE: 1.3187802950340826
-test 202: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 203: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 204: no_error_count: 119404, error_count: 0, ARE: 0
-test 205: no_error_count: 119404, error_count: 0, ARE: 0
-test 206: no_error_count: 119404, error_count: 0, ARE: 0
-test 207: no_error_count: 119399, error_count: 5, ARE: 0.5
-test 208: no_error_count: 119387, error_count: 17, ARE: 1.2288832996558672
-test 209: no_error_count: 119404, error_count: 0, ARE: 0
-test 210: no_error_count: 119404, error_count: 0, ARE: 0
-test 211: no_error_count: 119404, error_count: 0, ARE: 0
-test 212: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 213: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 214: no_error_count: 119332, error_count: 72, ARE: 2.552021444067039
-test 215: no_error_count: 119404, error_count: 0, ARE: 0
-test 216: no_error_count: 119404, error_count: 0, ARE: 0
-test 217: no_error_count: 119404, error_count: 0, ARE: 0
-test 218: no_error_count: 119372, error_count: 32, ARE: 1.7684426331002796
-test 219: no_error_count: 119388, error_count: 16, ARE: 1.2863710522068055
-test 220: no_error_count: 119404, error_count: 0, ARE: 0
-test 221: no_error_count: 119404, error_count: 0, ARE: 0
-test 222: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 223: no_error_count: 119404, error_count: 0, ARE: 0
-test 224: no_error_count: 119371, error_count: 33, ARE: 1.6670346584944848
-test 225: no_error_count: 119396, error_count: 8, ARE: 1.9168299173821215
-test 226: no_error_count: 119404, error_count: 0, ARE: 0
-test 227: no_error_count: 119404, error_count: 0, ARE: 0
-test 228: no_error_count: 119396, error_count: 8, ARE: 1.4628994443251426
-test 229: no_error_count: 119404, error_count: 0, ARE: 0
-test 230: no_error_count: 119404, error_count: 0, ARE: 0
-test 231: no_error_count: 119404, error_count: 0, ARE: 0
-test 232: no_error_count: 119404, error_count: 0, ARE: 0
-test 233: no_error_count: 119212, error_count: 192, ARE: 1.5569283083154744
-test 234: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 235: no_error_count: 119404, error_count: 0, ARE: 0
-test 236: no_error_count: 119404, error_count: 0, ARE: 0
-test 237: no_error_count: 119404, error_count: 0, ARE: 0
-test 238: no_error_count: 119404, error_count: 0, ARE: 0
-test 239: no_error_count: 119394, error_count: 10, ARE: 1.2372783491906927
-test 240: no_error_count: 119388, error_count: 16, ARE: 1.6050196281229385
-test 241: no_error_count: 119404, error_count: 0, ARE: 0
-test 242: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 243: no_error_count: 119386, error_count: 18, ARE: 0.888442451046393
-test 244: no_error_count: 119309, error_count: 95, ARE: 2.0256647556004723
-test 245: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 246: no_error_count: 119404, error_count: 0, ARE: 0
-test 247: no_error_count: 119404, error_count: 0, ARE: 0
-test 248: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 249: no_error_count: 119404, error_count: 0, ARE: 0
-test 250: no_error_count: 119388, error_count: 16, ARE: 1.1657970396395865
-test 251: no_error_count: 119404, error_count: 0, ARE: 0
-test 252: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 253: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 254: no_error_count: 119364, error_count: 40, ARE: 2.458157696419366
-test 255: no_error_count: 119404, error_count: 0, ARE: 0
-test 256: no_error_count: 119404, error_count: 0, ARE: 0
-test 257: no_error_count: 119404, error_count: 0, ARE: 0
-test 258: no_error_count: 119396, error_count: 8, ARE: 0.5
-test 259: no_error_count: 119388, error_count: 16, ARE: 1.1357957829166931
-test 260: no_error_count: 119404, error_count: 0, ARE: 0
-test 261: no_error_count: 119404, error_count: 0, ARE: 0
-test 262: no_error_count: 119404, error_count: 0, ARE: 0
-test 263: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 264: no_error_count: 119316, error_count: 88, ARE: 1.8072250810800428
-test 265: no_error_count: 119395, error_count: 9, ARE: 1.2108484312217034
-test 266: no_error_count: 119396, error_count: 8, ARE: 1.5688985197113634
-test 267: no_error_count: 119404, error_count: 0, ARE: 0
-test 268: no_error_count: 119404, error_count: 0, ARE: 0
-test 269: no_error_count: 119393, error_count: 11, ARE: 0.7693379198054557
-test 270: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 271: no_error_count: 119348, error_count: 56, ARE: 1.3851790535456783
-test 272: no_error_count: 119404, error_count: 0, ARE: 0
-test 273: no_error_count: 119404, error_count: 0, ARE: 0
-test 274: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 275: no_error_count: 119404, error_count: 0, ARE: 0
-test 276: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 277: no_error_count: 119404, error_count: 0, ARE: 0
-test 278: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 279: no_error_count: 119384, error_count: 20, ARE: 1.5523636711814783
-test 280: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 281: no_error_count: 119404, error_count: 0, ARE: 0
-test 282: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 283: no_error_count: 119404, error_count: 0, ARE: 0
-test 284: no_error_count: 119404, error_count: 0, ARE: 0
-test 285: no_error_count: 119404, error_count: 0, ARE: 0
-test 286: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 287: no_error_count: 119404, error_count: 0, ARE: 0
-test 288: no_error_count: 119404, error_count: 0, ARE: 0
-test 289: no_error_count: 119404, error_count: 0, ARE: 0
-test 290: no_error_count: 119404, error_count: 0, ARE: 0
-test 291: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 292: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 293: no_error_count: 119404, error_count: 0, ARE: 0
-test 294: no_error_count: 119372, error_count: 32, ARE: 1.4474525550407191
-test 295: no_error_count: 119404, error_count: 0, ARE: 0
-test 296: no_error_count: 119388, error_count: 16, ARE: 1.1644448760069372
-test 297: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 298: no_error_count: 118689, error_count: 715, ARE: 1.7835358383447313
-test 299: no_error_count: 119404, error_count: 0, ARE: 0
-test 300: no_error_count: 119396, error_count: 8, ARE: 2.2594873628585677
-test 301: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 302: no_error_count: 119404, error_count: 0, ARE: 0
-test 303: no_error_count: 119404, error_count: 0, ARE: 0
-test 304: no_error_count: 119379, error_count: 25, ARE: 3.0762283147389735
-test 305: no_error_count: 119404, error_count: 0, ARE: 0
-test 306: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 307: no_error_count: 119404, error_count: 0, ARE: 0
-test 308: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 309: no_error_count: 119404, error_count: 0, ARE: 0
-test 310: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 311: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 312: no_error_count: 119396, error_count: 8, ARE: 0.8211586875898944
-test 313: no_error_count: 119396, error_count: 8, ARE: 0.9568579533846905
-test 314: no_error_count: 119404, error_count: 0, ARE: 0
-test 315: no_error_count: 115968, error_count: 3436, ARE: 2.1265086666784025
-test 316: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 317: no_error_count: 119396, error_count: 8, ARE: 1.1829516313333581
-test 318: no_error_count: 119404, error_count: 0, ARE: 0
-test 319: no_error_count: 119404, error_count: 0, ARE: 0
-test 320: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 321: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 322: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 323: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 324: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 325: no_error_count: 119404, error_count: 0, ARE: 0
-test 326: no_error_count: 119404, error_count: 0, ARE: 0
-test 327: no_error_count: 119404, error_count: 0, ARE: 0
-test 328: no_error_count: 119404, error_count: 0, ARE: 0
-test 329: no_error_count: 119404, error_count: 0, ARE: 0
-test 330: no_error_count: 119404, error_count: 0, ARE: 0
-test 331: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 332: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 333: no_error_count: 119404, error_count: 0, ARE: 0
-test 334: no_error_count: 119404, error_count: 0, ARE: 0
-test 335: no_error_count: 119380, error_count: 24, ARE: 1.7011330183024977
-test 336: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 337: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 338: no_error_count: 119366, error_count: 38, ARE: 2.420621302633895
-test 339: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 340: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 341: no_error_count: 119404, error_count: 0, ARE: 0
-test 342: no_error_count: 119404, error_count: 0, ARE: 0
-test 343: no_error_count: 119404, error_count: 0, ARE: 0
-test 344: no_error_count: 119404, error_count: 0, ARE: 0
-test 345: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 346: no_error_count: 119404, error_count: 0, ARE: 0
-test 347: no_error_count: 119404, error_count: 0, ARE: 0
-test 348: no_error_count: 119387, error_count: 17, ARE: 1.081714529182186
-test 349: no_error_count: 119352, error_count: 52, ARE: 1.849782041503897
-test 350: no_error_count: 119404, error_count: 0, ARE: 0
-test 351: no_error_count: 119404, error_count: 0, ARE: 0
-test 352: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 353: no_error_count: 119404, error_count: 0, ARE: 0
-test 354: no_error_count: 119404, error_count: 0, ARE: 0
-test 355: no_error_count: 119353, error_count: 51, ARE: 1.4381109715347429
-test 356: no_error_count: 119404, error_count: 0, ARE: 0
-test 357: no_error_count: 119404, error_count: 0, ARE: 0
-test 358: no_error_count: 119364, error_count: 40, ARE: 2.071399306863612
-test 359: no_error_count: 119404, error_count: 0, ARE: 0
-test 360: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 361: no_error_count: 119404, error_count: 0, ARE: 0
-test 362: no_error_count: 119311, error_count: 93, ARE: 1.537648583575998
-test 363: no_error_count: 119334, error_count: 70, ARE: 1.442544024752912
-test 364: no_error_count: 119372, error_count: 32, ARE: 1.4992081323301676
-test 365: no_error_count: 119404, error_count: 0, ARE: 0
-test 366: no_error_count: 119404, error_count: 0, ARE: 0
-test 367: no_error_count: 119404, error_count: 0, ARE: 0
-test 368: no_error_count: 119362, error_count: 42, ARE: 1.3282487957322662
-test 369: no_error_count: 119404, error_count: 0, ARE: 0
-test 370: no_error_count: 119404, error_count: 0, ARE: 0
-test 371: no_error_count: 119404, error_count: 0, ARE: 0
-test 372: no_error_count: 119404, error_count: 0, ARE: 0
-test 373: no_error_count: 119404, error_count: 0, ARE: 0
-test 374: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 375: no_error_count: 119342, error_count: 62, ARE: 2.115617685702386
-test 376: no_error_count: 119404, error_count: 0, ARE: 0
-test 377: no_error_count: 119404, error_count: 0, ARE: 0
-test 378: no_error_count: 119380, error_count: 24, ARE: 1.4729880584588624
-test 379: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 380: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 381: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 382: no_error_count: 119379, error_count: 25, ARE: 2.6223143918263347
-test 383: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 384: no_error_count: 117142, error_count: 2262, ARE: 2.336324017118837
-test 385: no_error_count: 119404, error_count: 0, ARE: 0
-test 386: no_error_count: 119404, error_count: 0, ARE: 0
-test 387: no_error_count: 119334, error_count: 70, ARE: 1.668848273629806
-test 388: no_error_count: 119396, error_count: 8, ARE: 0.9478128717306619
-test 389: no_error_count: 119404, error_count: 0, ARE: 0
-test 390: no_error_count: 119404, error_count: 0, ARE: 0
-test 391: no_error_count: 119404, error_count: 0, ARE: 0
-test 392: no_error_count: 119388, error_count: 16, ARE: 1.4292257770279706
-test 393: no_error_count: 119404, error_count: 0, ARE: 0
-test 394: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 395: no_error_count: 119404, error_count: 0, ARE: 0
-test 396: no_error_count: 119404, error_count: 0, ARE: 0
-test 397: no_error_count: 119395, error_count: 9, ARE: 1.6814800394730067
-test 398: no_error_count: 119404, error_count: 0, ARE: 0
-test 399: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 400: no_error_count: 119388, error_count: 16, ARE: 1.5583512865776188
-test 401: no_error_count: 119380, error_count: 24, ARE: 1.4745681145647784
-test 402: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 403: no_error_count: 119387, error_count: 17, ARE: 1.6363184166483926
-test 404: no_error_count: 115052, error_count: 4352, ARE: 2.0729027640906645
-test 405: no_error_count: 119268, error_count: 136, ARE: 1.5329728488234784
-test 406: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 407: no_error_count: 119404, error_count: 0, ARE: 0
-test 408: no_error_count: 119404, error_count: 0, ARE: 0
-test 409: no_error_count: 119371, error_count: 33, ARE: 1.625144454977914
-test 410: no_error_count: 119396, error_count: 8, ARE: 2.2419594034828254
-test 411: no_error_count: 119404, error_count: 0, ARE: 0
-test 412: no_error_count: 119404, error_count: 0, ARE: 0
-test 413: no_error_count: 119404, error_count: 0, ARE: 0
-test 414: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 415: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 416: no_error_count: 119404, error_count: 0, ARE: 0
-test 417: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 418: no_error_count: 119396, error_count: 8, ARE: 0.9351696333808192
-test 419: no_error_count: 119404, error_count: 0, ARE: 0
-test 420: no_error_count: 119404, error_count: 0, ARE: 0
-test 421: no_error_count: 119396, error_count: 8, ARE: 2.411090599265638
-test 422: no_error_count: 119393, error_count: 11, ARE: 0.5
-test 423: no_error_count: 119404, error_count: 0, ARE: 0
-test 424: no_error_count: 119404, error_count: 0, ARE: 0
-test 425: no_error_count: 119388, error_count: 16, ARE: 2.5951545689305204
-test 426: no_error_count: 119404, error_count: 0, ARE: 0
-test 427: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 428: no_error_count: 119393, error_count: 11, ARE: 1.220431664498114
-test 429: no_error_count: 119388, error_count: 16, ARE: 1.8949211126944294
-test 430: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 431: no_error_count: 119399, error_count: 5, ARE: 0.5
-test 432: no_error_count: 119404, error_count: 0, ARE: 0
-test 433: no_error_count: 119404, error_count: 0, ARE: 0
-test 434: no_error_count: 119404, error_count: 0, ARE: 0
-test 435: no_error_count: 119388, error_count: 16, ARE: 1.5490416223164738
-test 436: no_error_count: 119364, error_count: 40, ARE: 1.29958547267452
-test 437: no_error_count: 119404, error_count: 0, ARE: 0
-test 438: no_error_count: 119344, error_count: 60, ARE: 1.5303954126848998
-test 439: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 440: no_error_count: 119404, error_count: 0, ARE: 0
-test 441: no_error_count: 119404, error_count: 0, ARE: 0
-test 442: no_error_count: 119404, error_count: 0, ARE: 0
-test 443: no_error_count: 119372, error_count: 32, ARE: 1.2310128721342284
-test 444: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 445: no_error_count: 119360, error_count: 44, ARE: 1.3922434286290313
-test 446: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 447: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 448: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 449: no_error_count: 119348, error_count: 56, ARE: 2.184849384603693
-test 450: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 451: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 452: no_error_count: 119404, error_count: 0, ARE: 0
-test 453: no_error_count: 119404, error_count: 0, ARE: 0
-test 454: no_error_count: 119333, error_count: 71, ARE: 1.9482217530347332
-test 455: no_error_count: 119404, error_count: 0, ARE: 0
-test 456: no_error_count: 119404, error_count: 0, ARE: 0
-test 457: no_error_count: 119404, error_count: 0, ARE: 0
-test 458: no_error_count: 119404, error_count: 0, ARE: 0
-test 459: no_error_count: 119379, error_count: 25, ARE: 1.2493684331517105
-test 460: no_error_count: 119400, error_count: 4, ARE: 0.5
-test 461: no_error_count: 119404, error_count: 0, ARE: 0
-test 462: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 463: no_error_count: 119396, error_count: 8, ARE: 1.505366291007828
-test 464: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 465: no_error_count: 119404, error_count: 0, ARE: 0
-test 466: no_error_count: 119404, error_count: 0, ARE: 0
-test 467: no_error_count: 119404, error_count: 0, ARE: 0
-test 468: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 469: no_error_count: 119332, error_count: 72, ARE: 1.577614762595346
-test 470: no_error_count: 119328, error_count: 76, ARE: 2.140640181632748
-test 471: no_error_count: 119404, error_count: 0, ARE: 0
-test 472: no_error_count: 119404, error_count: 0, ARE: 0
-test 473: no_error_count: 119404, error_count: 0, ARE: 0
-test 474: no_error_count: 117860, error_count: 1544, ARE: 2.0445505224969236
-test 475: no_error_count: 119388, error_count: 16, ARE: 1.8981892967526555
-test 476: no_error_count: 119396, error_count: 8, ARE: 1.315316706152709
-test 477: no_error_count: 119404, error_count: 0, ARE: 0
-test 478: no_error_count: 119225, error_count: 179, ARE: 1.7911530170436
-test 479: no_error_count: 119279, error_count: 125, ARE: 1.642793933749672
-test 480: no_error_count: 119404, error_count: 0, ARE: 0
-test 481: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 482: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 483: no_error_count: 119404, error_count: 0, ARE: 0
-test 484: no_error_count: 118948, error_count: 456, ARE: 2.357662217572743
-test 485: no_error_count: 119396, error_count: 8, ARE: 1.3692514268277796
-test 486: no_error_count: 119404, error_count: 0, ARE: 0
-test 487: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 488: no_error_count: 119404, error_count: 0, ARE: 0
-test 489: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 490: no_error_count: 119404, error_count: 0, ARE: 0
-test 491: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 492: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 493: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 494: no_error_count: 119404, error_count: 0, ARE: 0
-test 495: no_error_count: 119404, error_count: 0, ARE: 0
-test 496: no_error_count: 119404, error_count: 0, ARE: 0
-test 497: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 498: no_error_count: 119404, error_count: 0, ARE: 0
-test 499: no_error_count: 119404, error_count: 0, ARE: 0
-test 500: no_error_count: 119404, error_count: 0, ARE: 0
-test 501: no_error_count: 119387, error_count: 17, ARE: 1.6356376469636005
-test 502: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 503: no_error_count: 119372, error_count: 32, ARE: 1.6486978573268782
-test 504: no_error_count: 119404, error_count: 0, ARE: 0
-test 505: no_error_count: 119404, error_count: 0, ARE: 0
-test 506: no_error_count: 119058, error_count: 346, ARE: 1.7182428849499618
-test 507: no_error_count: 119404, error_count: 0, ARE: 0
-test 508: no_error_count: 119404, error_count: 0, ARE: 0
-test 509: no_error_count: 119404, error_count: 0, ARE: 0
-test 510: no_error_count: 119404, error_count: 0, ARE: 0
-test 511: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 512: no_error_count: 119379, error_count: 25, ARE: 1.1986738629825928
-test 513: no_error_count: 119404, error_count: 0, ARE: 0
-test 514: no_error_count: 119404, error_count: 0, ARE: 0
-test 515: no_error_count: 119404, error_count: 0, ARE: 0
-test 516: no_error_count: 119396, error_count: 8, ARE: 1.3590352663013203
-test 517: no_error_count: 119404, error_count: 0, ARE: 0
-test 518: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 519: no_error_count: 119379, error_count: 25, ARE: 1.3393525497127368
-test 520: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 521: no_error_count: 119380, error_count: 24, ARE: 1.3397605780861763
-test 522: no_error_count: 119351, error_count: 53, ARE: 2.0640772466050756
-test 523: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 524: no_error_count: 119264, error_count: 140, ARE: 1.6977744504528467
-test 525: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 526: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 527: no_error_count: 119404, error_count: 0, ARE: 0
-test 528: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 529: no_error_count: 119387, error_count: 17, ARE: 2.7502966053583555
-test 530: no_error_count: 119372, error_count: 32, ARE: 2.5162599712514853
-test 531: no_error_count: 119404, error_count: 0, ARE: 0
-test 532: no_error_count: 119404, error_count: 0, ARE: 0
-test 533: no_error_count: 119404, error_count: 0, ARE: 0
-test 534: no_error_count: 119388, error_count: 16, ARE: 2.8045051619120143
-test 535: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 536: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 537: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 538: no_error_count: 119404, error_count: 0, ARE: 0
-test 539: no_error_count: 119387, error_count: 17, ARE: 1.8825412308628373
-test 540: no_error_count: 119404, error_count: 0, ARE: 0
-test 541: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 542: no_error_count: 119380, error_count: 24, ARE: 1.3630045796990675
-test 543: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 544: no_error_count: 119177, error_count: 227, ARE: 2.0425772147396195
-test 545: no_error_count: 119388, error_count: 16, ARE: 2.5396886309612716
-test 546: no_error_count: 119404, error_count: 0, ARE: 0
-test 547: no_error_count: 119404, error_count: 0, ARE: 0
-test 548: no_error_count: 119356, error_count: 48, ARE: 1.406612730401898
-test 549: no_error_count: 119404, error_count: 0, ARE: 0
-test 550: no_error_count: 119404, error_count: 0, ARE: 0
-test 551: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 552: no_error_count: 119404, error_count: 0, ARE: 0
-test 553: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 554: no_error_count: 119396, error_count: 8, ARE: 1.6717927710816007
-test 555: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 556: no_error_count: 119395, error_count: 9, ARE: 0.954436960682593
-test 557: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 558: no_error_count: 119404, error_count: 0, ARE: 0
-test 559: no_error_count: 119318, error_count: 86, ARE: 1.2709492675310612
-test 560: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 561: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 562: no_error_count: 119358, error_count: 46, ARE: 1.511835960398979
-test 563: no_error_count: 119388, error_count: 16, ARE: 1.1616865913062253
-test 564: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 565: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 566: no_error_count: 119404, error_count: 0, ARE: 0
-test 567: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 568: no_error_count: 119394, error_count: 10, ARE: 1.1468269704004783
-test 569: no_error_count: 119404, error_count: 0, ARE: 0
-test 570: no_error_count: 119370, error_count: 34, ARE: 1.3377673215931043
-test 571: no_error_count: 119404, error_count: 0, ARE: 0
-test 572: no_error_count: 119013, error_count: 391, ARE: 1.77346599484928
-test 573: no_error_count: 119372, error_count: 32, ARE: 1.4935764821086013
-test 574: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 575: no_error_count: 119396, error_count: 8, ARE: 1.0426666522377905
-test 576: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 577: no_error_count: 119404, error_count: 0, ARE: 0
-test 578: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 579: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 580: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 581: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 582: no_error_count: 119362, error_count: 42, ARE: 1.3476235945250348
-test 583: no_error_count: 119404, error_count: 0, ARE: 0
-test 584: no_error_count: 119404, error_count: 0, ARE: 0
-test 585: no_error_count: 119404, error_count: 0, ARE: 0
-test 586: no_error_count: 119404, error_count: 0, ARE: 0
-test 587: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 588: no_error_count: 119380, error_count: 24, ARE: 1.4768103122123446
-test 589: no_error_count: 119404, error_count: 0, ARE: 0
-test 590: no_error_count: 119278, error_count: 126, ARE: 2.3647994516433286
-test 591: no_error_count: 119404, error_count: 0, ARE: 0
-test 592: no_error_count: 119385, error_count: 19, ARE: 1.516146264283538
-test 593: no_error_count: 119404, error_count: 0, ARE: 0
-test 594: no_error_count: 119404, error_count: 0, ARE: 0
-test 595: no_error_count: 119378, error_count: 26, ARE: 1.7590529231604586
-test 596: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 597: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 598: no_error_count: 119404, error_count: 0, ARE: 0
-test 599: no_error_count: 119404, error_count: 0, ARE: 0
-test 600: no_error_count: 119404, error_count: 0, ARE: 0
-test 601: no_error_count: 119404, error_count: 0, ARE: 0
-test 602: no_error_count: 119364, error_count: 40, ARE: 1.8381800573895473
-test 603: no_error_count: 119396, error_count: 8, ARE: 1.4055256248759491
-test 604: no_error_count: 119404, error_count: 0, ARE: 0
-test 605: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 606: no_error_count: 119404, error_count: 0, ARE: 0
-test 607: no_error_count: 119371, error_count: 33, ARE: 1.4837900109714859
-test 608: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 609: no_error_count: 119404, error_count: 0, ARE: 0
-test 610: no_error_count: 119326, error_count: 78, ARE: 1.5111676449114169
-test 611: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 612: no_error_count: 119404, error_count: 0, ARE: 0
-test 613: no_error_count: 114384, error_count: 5020, ARE: 2.425127506997038
-test 614: no_error_count: 119404, error_count: 0, ARE: 0
-test 615: no_error_count: 119404, error_count: 0, ARE: 0
-test 616: no_error_count: 119324, error_count: 80, ARE: 1.2384776356549918
-test 617: no_error_count: 119073, error_count: 331, ARE: 1.8658739467751548
-test 618: no_error_count: 119404, error_count: 0, ARE: 0
-test 619: no_error_count: 119318, error_count: 86, ARE: 1.6184553411377038
-test 620: no_error_count: 119404, error_count: 0, ARE: 0
-test 621: no_error_count: 119404, error_count: 0, ARE: 0
-test 622: no_error_count: 119355, error_count: 49, ARE: 1.7408745062607929
-test 623: no_error_count: 119404, error_count: 0, ARE: 0
-test 624: no_error_count: 119309, error_count: 95, ARE: 1.8243853583429577
-test 625: no_error_count: 119404, error_count: 0, ARE: 0
-test 626: no_error_count: 119404, error_count: 0, ARE: 0
-test 627: no_error_count: 119404, error_count: 0, ARE: 0
-test 628: no_error_count: 119404, error_count: 0, ARE: 0
-test 629: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 630: no_error_count: 119344, error_count: 60, ARE: 1.4757873470989762
-test 631: no_error_count: 119336, error_count: 68, ARE: 2.3374968244527285
-test 632: no_error_count: 119136, error_count: 268, ARE: 1.4069281746867173
-test 633: no_error_count: 119404, error_count: 0, ARE: 0
-test 634: no_error_count: 119404, error_count: 0, ARE: 0
-test 635: no_error_count: 119404, error_count: 0, ARE: 0
-test 636: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 637: no_error_count: 119404, error_count: 0, ARE: 0
-test 638: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 639: no_error_count: 119404, error_count: 0, ARE: 0
-test 640: no_error_count: 119388, error_count: 16, ARE: 1.9890999272890386
-test 641: no_error_count: 119404, error_count: 0, ARE: 0
-test 642: no_error_count: 119404, error_count: 0, ARE: 0
-test 643: no_error_count: 119208, error_count: 196, ARE: 1.30358529399781
-test 644: no_error_count: 119364, error_count: 40, ARE: 2.285366700528632
-test 645: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 646: no_error_count: 119404, error_count: 0, ARE: 0
-test 647: no_error_count: 119380, error_count: 24, ARE: 3.1645509336973383
-test 648: no_error_count: 119356, error_count: 48, ARE: 1.3480287967078708
-test 649: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 650: no_error_count: 119404, error_count: 0, ARE: 0
-test 651: no_error_count: 119404, error_count: 0, ARE: 0
-test 652: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 653: no_error_count: 119404, error_count: 0, ARE: 0
-test 654: no_error_count: 119404, error_count: 0, ARE: 0
-test 655: no_error_count: 119404, error_count: 0, ARE: 0
-test 656: no_error_count: 119404, error_count: 0, ARE: 0
-test 657: no_error_count: 119404, error_count: 0, ARE: 0
-test 658: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 659: no_error_count: 119404, error_count: 0, ARE: 0
-test 660: no_error_count: 119356, error_count: 48, ARE: 1.3993864639757128
-test 661: no_error_count: 119387, error_count: 17, ARE: 1.7896633505066246
-test 662: no_error_count: 119404, error_count: 0, ARE: 0
-test 663: no_error_count: 119404, error_count: 0, ARE: 0
-test 664: no_error_count: 119404, error_count: 0, ARE: 0
-test 665: no_error_count: 119404, error_count: 0, ARE: 0
-test 666: no_error_count: 119396, error_count: 8, ARE: 1.051289224863509
-test 667: no_error_count: 119274, error_count: 130, ARE: 1.3266663806352892
-test 668: no_error_count: 119404, error_count: 0, ARE: 0
-test 669: no_error_count: 119387, error_count: 17, ARE: 1.3582062699262638
-test 670: no_error_count: 119404, error_count: 0, ARE: 0
-test 671: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 672: no_error_count: 119260, error_count: 144, ARE: 1.7536177219206814
-test 673: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 674: no_error_count: 119404, error_count: 0, ARE: 0
-test 675: no_error_count: 119404, error_count: 0, ARE: 0
-test 676: no_error_count: 119404, error_count: 0, ARE: 0
-test 677: no_error_count: 119404, error_count: 0, ARE: 0
-test 678: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 679: no_error_count: 119404, error_count: 0, ARE: 0
-test 680: no_error_count: 119404, error_count: 0, ARE: 0
-test 681: no_error_count: 119404, error_count: 0, ARE: 0
-test 682: no_error_count: 119404, error_count: 0, ARE: 0
-test 683: no_error_count: 119355, error_count: 49, ARE: 1.3734813228026865
-test 684: no_error_count: 119404, error_count: 0, ARE: 0
-test 685: no_error_count: 119404, error_count: 0, ARE: 0
-test 686: no_error_count: 119404, error_count: 0, ARE: 0
-test 687: no_error_count: 119387, error_count: 17, ARE: 1.510312191510257
-test 688: no_error_count: 119404, error_count: 0, ARE: 0
-test 689: no_error_count: 119404, error_count: 0, ARE: 0
-test 690: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 691: no_error_count: 119387, error_count: 17, ARE: 1.2106540037085525
-test 692: no_error_count: 119404, error_count: 0, ARE: 0
-test 693: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 694: no_error_count: 119404, error_count: 0, ARE: 0
-test 695: no_error_count: 119396, error_count: 8, ARE: 1.6109775736732237
-test 696: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 697: no_error_count: 119404, error_count: 0, ARE: 0
-test 698: no_error_count: 119400, error_count: 4, ARE: 0.5
-test 699: no_error_count: 119404, error_count: 0, ARE: 0
-test 700: no_error_count: 119404, error_count: 0, ARE: 0
-test 701: no_error_count: 119372, error_count: 32, ARE: 1.9212191460946482
-test 702: no_error_count: 119404, error_count: 0, ARE: 0
-test 703: no_error_count: 119404, error_count: 0, ARE: 0
-test 704: no_error_count: 119404, error_count: 0, ARE: 0
-test 705: no_error_count: 119332, error_count: 72, ARE: 1.6167688230073283
-test 706: no_error_count: 119404, error_count: 0, ARE: 0
-test 707: no_error_count: 119378, error_count: 26, ARE: 1.6020915803139317
-test 708: no_error_count: 119404, error_count: 0, ARE: 0
-test 709: no_error_count: 119404, error_count: 0, ARE: 0
-test 710: no_error_count: 119396, error_count: 8, ARE: 1.2723867116977252
-test 711: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 712: no_error_count: 119404, error_count: 0, ARE: 0
-test 713: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 714: no_error_count: 119404, error_count: 0, ARE: 0
-test 715: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 716: no_error_count: 119404, error_count: 0, ARE: 0
-test 717: no_error_count: 119380, error_count: 24, ARE: 1.1495212897452973
-test 718: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 719: no_error_count: 119404, error_count: 0, ARE: 0
-test 720: no_error_count: 119387, error_count: 17, ARE: 0.9829168161527764
-test 721: no_error_count: 119395, error_count: 9, ARE: 1.1030207286161628
-test 722: no_error_count: 119404, error_count: 0, ARE: 0
-test 723: no_error_count: 119318, error_count: 86, ARE: 1.9571773744205685
-test 724: no_error_count: 119404, error_count: 0, ARE: 0
-test 725: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 726: no_error_count: 119387, error_count: 17, ARE: 1.4962168854434252
-test 727: no_error_count: 119388, error_count: 16, ARE: 1.5783126986476468
-test 728: no_error_count: 119300, error_count: 104, ARE: 1.8667063131571155
-test 729: no_error_count: 119404, error_count: 0, ARE: 0
-test 730: no_error_count: 119388, error_count: 16, ARE: 2.6934941856058994
-test 731: no_error_count: 119396, error_count: 8, ARE: 1.872509469681467
-test 732: no_error_count: 119396, error_count: 8, ARE: 0.6900604908949024
-test 733: no_error_count: 119396, error_count: 8, ARE: 1.0962130433078339
-test 734: no_error_count: 119372, error_count: 32, ARE: 1.6772051925563018
-test 735: no_error_count: 119404, error_count: 0, ARE: 0
-test 736: no_error_count: 119206, error_count: 198, ARE: 1.7957377776092944
-test 737: no_error_count: 119396, error_count: 8, ARE: 1.2945701050661034
-test 738: no_error_count: 119348, error_count: 56, ARE: 1.4554663543806872
-test 739: no_error_count: 119404, error_count: 0, ARE: 0
-test 740: no_error_count: 119380, error_count: 24, ARE: 1.3861456335803328
-test 741: no_error_count: 119364, error_count: 40, ARE: 1.489692908073734
-test 742: no_error_count: 119396, error_count: 8, ARE: 2.370795976078824
-test 743: no_error_count: 119372, error_count: 32, ARE: 2.1018945472357995
-test 744: no_error_count: 119396, error_count: 8, ARE: 2.233427161972858
-test 745: no_error_count: 119404, error_count: 0, ARE: 0
-test 746: no_error_count: 119404, error_count: 0, ARE: 0
-test 747: no_error_count: 119380, error_count: 24, ARE: 2.0770700152394195
-test 748: no_error_count: 119404, error_count: 0, ARE: 0
-test 749: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 750: no_error_count: 119362, error_count: 42, ARE: 1.287902757112055
-test 751: no_error_count: 119278, error_count: 126, ARE: 2.170178329974696
-test 752: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 753: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 754: no_error_count: 119363, error_count: 41, ARE: 1.6449631505890654
-test 755: no_error_count: 119387, error_count: 17, ARE: 0.8150979810972548
-test 756: no_error_count: 119340, error_count: 64, ARE: 1.7224115481825082
-test 757: no_error_count: 119380, error_count: 24, ARE: 2.349641553254965
-test 758: no_error_count: 119372, error_count: 32, ARE: 1.3746629514220623
-test 759: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 760: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 761: no_error_count: 118515, error_count: 889, ARE: 1.7592112222341145
-test 762: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 763: no_error_count: 119404, error_count: 0, ARE: 0
-test 764: no_error_count: 119404, error_count: 0, ARE: 0
-test 765: no_error_count: 119404, error_count: 0, ARE: 0
-test 766: no_error_count: 119404, error_count: 0, ARE: 0
-test 767: no_error_count: 119404, error_count: 0, ARE: 0
-test 768: no_error_count: 119404, error_count: 0, ARE: 0
-test 769: no_error_count: 119395, error_count: 9, ARE: 0.7205289420673083
-test 770: no_error_count: 119404, error_count: 0, ARE: 0
-test 771: no_error_count: 119404, error_count: 0, ARE: 0
-test 772: no_error_count: 119364, error_count: 40, ARE: 1.456068510077467
-test 773: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 774: no_error_count: 119404, error_count: 0, ARE: 0
-test 775: no_error_count: 119195, error_count: 209, ARE: 1.7650595361346857
-test 776: no_error_count: 119305, error_count: 99, ARE: 2.4012094434758455
-test 777: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 778: no_error_count: 115647, error_count: 3757, ARE: 19.092526427609453
-test 779: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 780: no_error_count: 119404, error_count: 0, ARE: 0
-test 781: no_error_count: 119372, error_count: 32, ARE: 1.5034893016207382
-test 782: no_error_count: 119404, error_count: 0, ARE: 0
-test 783: no_error_count: 119296, error_count: 108, ARE: 1.4402427143589365
-test 784: no_error_count: 119404, error_count: 0, ARE: 0
-test 785: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 786: no_error_count: 119404, error_count: 0, ARE: 0
-test 787: no_error_count: 116454, error_count: 2950, ARE: 2.253787608386932
-test 788: no_error_count: 119404, error_count: 0, ARE: 0
-test 789: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 790: no_error_count: 119404, error_count: 0, ARE: 0
-test 791: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 792: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 793: no_error_count: 119404, error_count: 0, ARE: 0
-test 794: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 795: no_error_count: 119404, error_count: 0, ARE: 0
-test 796: no_error_count: 119356, error_count: 48, ARE: 1.6511070189678294
-test 797: no_error_count: 119404, error_count: 0, ARE: 0
-test 798: no_error_count: 119404, error_count: 0, ARE: 0
-test 799: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 800: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 801: no_error_count: 119396, error_count: 8, ARE: 1.3147959487642953
-test 802: no_error_count: 119396, error_count: 8, ARE: 1.619096894766518
-test 803: no_error_count: 119404, error_count: 0, ARE: 0
-test 804: no_error_count: 119388, error_count: 16, ARE: 1.4922794680789349
-test 805: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 806: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 807: no_error_count: 119371, error_count: 33, ARE: 1.8238615094224535
-test 808: no_error_count: 119404, error_count: 0, ARE: 0
-test 809: no_error_count: 119291, error_count: 113, ARE: 2.2869056826414726
-test 810: no_error_count: 119404, error_count: 0, ARE: 0
-test 811: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 812: no_error_count: 119395, error_count: 9, ARE: 2.4460762172376125
-test 813: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 814: no_error_count: 119404, error_count: 0, ARE: 0
-test 815: no_error_count: 119396, error_count: 8, ARE: 1.499205121413417
-test 816: no_error_count: 119404, error_count: 0, ARE: 0
-test 817: no_error_count: 119388, error_count: 16, ARE: 0.9395250442373438
-test 818: no_error_count: 119395, error_count: 9, ARE: 0.9118419703888362
-test 819: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 820: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 821: no_error_count: 119379, error_count: 25, ARE: 1.6122202770824257
-test 822: no_error_count: 119404, error_count: 0, ARE: 0
-test 823: no_error_count: 119371, error_count: 33, ARE: 1.6742501537567207
-test 824: no_error_count: 119404, error_count: 0, ARE: 0
-test 825: no_error_count: 119404, error_count: 0, ARE: 0
-test 826: no_error_count: 119404, error_count: 0, ARE: 0
-test 827: no_error_count: 119404, error_count: 0, ARE: 0
-test 828: no_error_count: 119404, error_count: 0, ARE: 0
-test 829: no_error_count: 113707, error_count: 5697, ARE: 2.4353459152540817
-test 830: no_error_count: 119404, error_count: 0, ARE: 0
-test 831: no_error_count: 119404, error_count: 0, ARE: 0
-test 832: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 833: no_error_count: 119396, error_count: 8, ARE: 1.6158494677755748
-test 834: no_error_count: 119404, error_count: 0, ARE: 0
-test 835: no_error_count: 119404, error_count: 0, ARE: 0
-test 836: no_error_count: 119404, error_count: 0, ARE: 0
-test 837: no_error_count: 119404, error_count: 0, ARE: 0
-test 838: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 839: no_error_count: 119404, error_count: 0, ARE: 0
-test 840: no_error_count: 119404, error_count: 0, ARE: 0
-test 841: no_error_count: 119356, error_count: 48, ARE: 2.0969231420296652
-test 842: no_error_count: 119323, error_count: 81, ARE: 1.6929212396323625
-test 843: no_error_count: 119396, error_count: 8, ARE: 2.7207574715221625
-test 844: no_error_count: 119396, error_count: 8, ARE: 0.9663415786438394
-test 845: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 846: no_error_count: 119404, error_count: 0, ARE: 0
-test 847: no_error_count: 119396, error_count: 8, ARE: 1.617483753891775
-test 848: no_error_count: 119404, error_count: 0, ARE: 0
-test 849: no_error_count: 119404, error_count: 0, ARE: 0
-test 850: no_error_count: 119267, error_count: 137, ARE: 1.544085168896539
-test 851: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 852: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 853: no_error_count: 119404, error_count: 0, ARE: 0
-test 854: no_error_count: 119404, error_count: 0, ARE: 0
-test 855: no_error_count: 119347, error_count: 57, ARE: 0.9276339737657637
-test 856: no_error_count: 119404, error_count: 0, ARE: 0
-test 857: no_error_count: 119404, error_count: 0, ARE: 0
-test 858: no_error_count: 116774, error_count: 2630, ARE: 2.209258622977714
-test 859: no_error_count: 119404, error_count: 0, ARE: 0
-test 860: no_error_count: 119259, error_count: 145, ARE: 1.4084770634499109
-test 861: no_error_count: 119404, error_count: 0, ARE: 0
-test 862: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 863: no_error_count: 119372, error_count: 32, ARE: 2.3807047653027515
-test 864: no_error_count: 119300, error_count: 104, ARE: 1.6897322182411068
-test 865: no_error_count: 119395, error_count: 9, ARE: 2.337911657182281
-test 866: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 867: no_error_count: 119404, error_count: 0, ARE: 0
-test 868: no_error_count: 119404, error_count: 0, ARE: 0
-test 869: no_error_count: 119380, error_count: 24, ARE: 1.540122776118664
-test 870: no_error_count: 119404, error_count: 0, ARE: 0
-test 871: no_error_count: 119404, error_count: 0, ARE: 0
-test 872: no_error_count: 119387, error_count: 17, ARE: 2.3537937819338386
-test 873: no_error_count: 119387, error_count: 17, ARE: 2.1859395314686916
-test 874: no_error_count: 119404, error_count: 0, ARE: 0
-test 875: no_error_count: 119359, error_count: 45, ARE: 1.5726157483715784
-test 876: no_error_count: 119388, error_count: 16, ARE: 1.3908889237748228
-test 877: no_error_count: 119394, error_count: 10, ARE: 0.9211960986605506
-test 878: no_error_count: 119404, error_count: 0, ARE: 0
-test 879: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 880: no_error_count: 119404, error_count: 0, ARE: 0
-test 881: no_error_count: 119396, error_count: 8, ARE: 0.9317147474150992
-test 882: no_error_count: 119363, error_count: 41, ARE: 1.8150935770140535
-test 883: no_error_count: 119388, error_count: 16, ARE: 1.0255105725749867
-test 884: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 885: no_error_count: 119059, error_count: 345, ARE: 1.5659689494928113
-test 886: no_error_count: 119404, error_count: 0, ARE: 0
-test 887: no_error_count: 119404, error_count: 0, ARE: 0
-test 888: no_error_count: 119404, error_count: 0, ARE: 0
-test 889: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 890: no_error_count: 119404, error_count: 0, ARE: 0
-test 891: no_error_count: 119404, error_count: 0, ARE: 0
-test 892: no_error_count: 119404, error_count: 0, ARE: 0
-test 893: no_error_count: 119404, error_count: 0, ARE: 0
-test 894: no_error_count: 119404, error_count: 0, ARE: 0
-test 895: no_error_count: 119106, error_count: 298, ARE: 2.0649951707989387
-test 896: no_error_count: 119404, error_count: 0, ARE: 0
-test 897: no_error_count: 114725, error_count: 4679, ARE: 2.316053000637191
-test 898: no_error_count: 119404, error_count: 0, ARE: 0
-test 899: no_error_count: 119404, error_count: 0, ARE: 0
-test 900: no_error_count: 119404, error_count: 0, ARE: 0
-test 901: no_error_count: 119404, error_count: 0, ARE: 0
-test 902: no_error_count: 119404, error_count: 0, ARE: 0
-test 903: no_error_count: 119404, error_count: 0, ARE: 0
-test 904: no_error_count: 119404, error_count: 0, ARE: 0
-test 905: no_error_count: 115851, error_count: 3553, ARE: 2.043405339353375
-test 906: no_error_count: 119394, error_count: 10, ARE: 1.1248742335049873
-test 907: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 908: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 909: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 910: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 911: no_error_count: 119404, error_count: 0, ARE: 0
-test 912: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 913: no_error_count: 119404, error_count: 0, ARE: 0
-test 914: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 915: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 916: no_error_count: 119404, error_count: 0, ARE: 0
-test 917: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 918: no_error_count: 119404, error_count: 0, ARE: 0
-test 919: no_error_count: 119404, error_count: 0, ARE: 0
-test 920: no_error_count: 119285, error_count: 119, ARE: 1.7016769222557784
-test 921: no_error_count: 119404, error_count: 0, ARE: 0
-test 922: no_error_count: 119404, error_count: 0, ARE: 0
-test 923: no_error_count: 119388, error_count: 16, ARE: 0.9853309008957041
-test 924: no_error_count: 119404, error_count: 0, ARE: 0
-test 925: no_error_count: 119296, error_count: 108, ARE: 1.085101736432214
-test 926: no_error_count: 119404, error_count: 0, ARE: 0
-test 927: no_error_count: 119404, error_count: 0, ARE: 0
-test 928: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 929: no_error_count: 119404, error_count: 0, ARE: 0
-test 930: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 931: no_error_count: 119404, error_count: 0, ARE: 0
-test 932: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 933: no_error_count: 119404, error_count: 0, ARE: 0
-test 934: no_error_count: 119396, error_count: 8, ARE: 1.2494961362727266
-test 935: no_error_count: 119396, error_count: 8, ARE: 1.550797274147734
-test 936: no_error_count: 119395, error_count: 9, ARE: 1.5705603438684843
-test 937: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 938: no_error_count: 119404, error_count: 0, ARE: 0
-test 939: no_error_count: 119372, error_count: 32, ARE: 1.8925294092802214
-test 940: no_error_count: 119404, error_count: 0, ARE: 0
-test 941: no_error_count: 119404, error_count: 0, ARE: 0
-test 942: no_error_count: 119317, error_count: 87, ARE: 2.508991687816479
-test 943: no_error_count: 119404, error_count: 0, ARE: 0
-test 944: no_error_count: 119395, error_count: 9, ARE: 1.8773780248084317
-test 945: no_error_count: 119404, error_count: 0, ARE: 0
-test 946: no_error_count: 119404, error_count: 0, ARE: 0
-test 947: no_error_count: 119404, error_count: 0, ARE: 0
-test 948: no_error_count: 119404, error_count: 0, ARE: 0
-test 949: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 950: no_error_count: 119404, error_count: 0, ARE: 0
-test 951: no_error_count: 119404, error_count: 0, ARE: 0
-test 952: no_error_count: 119395, error_count: 9, ARE: 2.516256188499115
-test 953: no_error_count: 119339, error_count: 65, ARE: 1.7571287568012002
-test 954: no_error_count: 119395, error_count: 9, ARE: 1.1448959405336128
-test 955: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 956: no_error_count: 119404, error_count: 0, ARE: 0
-test 957: no_error_count: 119404, error_count: 0, ARE: 0
-test 958: no_error_count: 119404, error_count: 0, ARE: 0
-test 959: no_error_count: 119404, error_count: 0, ARE: 0
-test 960: no_error_count: 119404, error_count: 0, ARE: 0
-test 961: no_error_count: 119404, error_count: 0, ARE: 0
-test 962: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 963: no_error_count: 119395, error_count: 9, ARE: 1.4448037828307612
-test 964: no_error_count: 119343, error_count: 61, ARE: 1.6588570170880312
-test 965: no_error_count: 119293, error_count: 111, ARE: 1.570811667070682
-test 966: no_error_count: 119404, error_count: 0, ARE: 0
-test 967: no_error_count: 119340, error_count: 64, ARE: 1.3815877055678283
-test 968: no_error_count: 119404, error_count: 0, ARE: 0
-test 969: no_error_count: 119388, error_count: 16, ARE: 1.92406335234581
-test 970: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 971: no_error_count: 119380, error_count: 24, ARE: 1.1362462903089734
-test 972: no_error_count: 119364, error_count: 40, ARE: 2.5584812010548736
-test 973: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 974: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 975: no_error_count: 113011, error_count: 6393, ARE: 2.691005453822803
-test 976: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 977: no_error_count: 119379, error_count: 25, ARE: 0.9837287606335968
-test 978: no_error_count: 117144, error_count: 2260, ARE: 2.489545776981657
-test 979: no_error_count: 119388, error_count: 16, ARE: 0.8896801347835117
-test 980: no_error_count: 119404, error_count: 0, ARE: 0
-test 981: no_error_count: 119356, error_count: 48, ARE: 1.5546010869970042
-test 982: no_error_count: 119404, error_count: 0, ARE: 0
-test 983: no_error_count: 119404, error_count: 0, ARE: 0
-test 984: no_error_count: 119396, error_count: 8, ARE: 1.9342974017637928
-test 985: no_error_count: 119395, error_count: 9, ARE: 1.360811414622911
-test 986: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 987: no_error_count: 119402, error_count: 2, ARE: 0.5
-test 988: no_error_count: 119388, error_count: 16, ARE: 2.2558286382314416
-test 989: no_error_count: 119404, error_count: 0, ARE: 0
-test 990: no_error_count: 119404, error_count: 0, ARE: 0
-test 991: no_error_count: 119404, error_count: 0, ARE: 0
-test 992: no_error_count: 119401, error_count: 3, ARE: 0.5
-test 993: no_error_count: 119404, error_count: 0, ARE: 0
-test 994: no_error_count: 119404, error_count: 0, ARE: 0
-test 995: no_error_count: 119372, error_count: 32, ARE: 1.23076246061022
-test 996: no_error_count: 119404, error_count: 0, ARE: 0
-test 997: no_error_count: 119404, error_count: 0, ARE: 0
-test 998: no_error_count: 119364, error_count: 40, ARE: 1.5905126636433065
-test 999: no_error_count: 119404, error_count: 0, ARE: 0
-test 1000: no_error_count: 119404, error_count: 0, ARE: 0
-test 1: no_error_count: 119396, error_count: 8, ARE: 1.1329345959122268
-test 2: no_error_count: 119404, error_count: 0, ARE: 0
-test 3: no_error_count: 119396, error_count: 8, ARE: 1.1534106044598953
-test 4: no_error_count: 119404, error_count: 0, ARE: 0
-test 5: no_error_count: 119404, error_count: 0, ARE: 0
-test 6: no_error_count: 119380, error_count: 24, ARE: 1.5700919941330629
-test 7: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 8: no_error_count: 119388, error_count: 16, ARE: 1.5529284129673018
-test 9: no_error_count: 119404, error_count: 0, ARE: 0
-test 10: no_error_count: 119404, error_count: 0, ARE: 0
-test 1: no_error_count: 119404, error_count: 0, ARE: 0
-test 2: no_error_count: 119404, error_count: 0, ARE: 0
-test 3: no_error_count: 119403, error_count: 1, ARE: 0.5
-test 4: no_error_count: 119404, error_count: 0, ARE: 0
-test 5: no_error_count: 119395, error_count: 9, ARE: 1.3208935857586566
-test 6: no_error_count: 119404, error_count: 0, ARE: 0
-test 7: no_error_count: 119404, error_count: 0, ARE: 0
-test 8: no_error_count: 119404, error_count: 0, ARE: 0
-test 9: no_error_count: 119396, error_count: 8, ARE: 1.1125178150485329
-test 10: no_error_count: 119363, error_count: 41, ARE: 1.769554229038398
-test 1: no_error_count: 119400, error_count: 4, ARE: 0.5
-test 2: no_error_count: 119404, error_count: 0, ARE: 0
-test 3: no_error_count: 119404, error_count: 0, ARE: 0
-test 4: no_error_count: 119380, error_count: 24, ARE: 1.2662756845798548
-test 5: no_error_count: 119404, error_count: 0, ARE: 0
-test 6: no_error_count: 119404, error_count: 0, ARE: 0
-test 7: no_error_count: 119404, error_count: 0, ARE: 0
-test 8: no_error_count: 119404, error_count: 0, ARE: 0
-test 9: no_error_count: 119404, error_count: 0, ARE: 0
-test 10: no_error_count: 119404, error_count: 0, ARE: 0
-test 1: no_error_count: 119403, error_count: 1, ARE: 0.5, counter_report: 138689
-test 2: no_error_count: 119356, error_count: 48, ARE: 1.9111641099888061, counter_report: 139142
-test 3: no_error_count: 114145, error_count: 5259, ARE: 2.6539955006568086, counter_report: 136739
-test 4: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 138982
-test 5: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139666
-test 6: no_error_count: 119401, error_count: 3, ARE: 0.5, counter_report: 140111
-test 7: no_error_count: 119403, error_count: 1, ARE: 0.5, counter_report: 139248
-test 8: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139368
-test 9: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 138727
-test 10: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139343
-test 1: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 138153
-test 2: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139275
-test 3: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139233
-test 4: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139907
-test 5: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139940
-test 6: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139610
-test 7: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 139440
-test 8: no_error_count: 119403, error_count: 1, ARE: 0.5, counter_report: 139927
-test 9: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 140173
-test 10: no_error_count: 119404, error_count: 0, ARE: 0, counter_report: 137958
+test 1: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45902
+test 2: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 41298
+test 3: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45331
+test 4: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44935
+test 5: no_error_count: 6938, error_count: 5070, ARE: 2.8528142045100493, counter_report: 43358
+test 6: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45234
+test 7: no_error_count: 6151, error_count: 5857, ARE: 3.0767201793327548, counter_report: 42565
+test 8: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45491
+test 9: no_error_count: 11968, error_count: 40, ARE: 1.6881744013956321, counter_report: 44378
+test 10: no_error_count: 11892, error_count: 116, ARE: 1.9217563484652973, counter_report: 44165
+test 11: no_error_count: 11882, error_count: 126, ARE: 2.2820803613097493, counter_report: 44378
+test 12: no_error_count: 11984, error_count: 24, ARE: 1.6978587923105077, counter_report: 44105
+test 13: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45387
+test 14: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45877
+test 15: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45634
+test 16: no_error_count: 11912, error_count: 96, ARE: 2.91036115712807, counter_report: 44679
+test 17: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45693
+test 18: no_error_count: 11968, error_count: 40, ARE: 1.8109062111716034, counter_report: 44597
+test 19: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45627
+test 20: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45392
+test 21: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44765
+test 22: no_error_count: 11900, error_count: 108, ARE: 3.3586286127425096, counter_report: 43990
+test 23: no_error_count: 12000, error_count: 8, ARE: 1.4227184432179343, counter_report: 44894
+test 24: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45344
+test 25: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44909
+test 26: no_error_count: 11992, error_count: 16, ARE: 1.9363011359519198, counter_report: 44712
+test 27: no_error_count: 11992, error_count: 16, ARE: 1.5518636103679635, counter_report: 44657
+test 28: no_error_count: 11952, error_count: 56, ARE: 2.458174639121609, counter_report: 44880
+test 29: no_error_count: 11412, error_count: 596, ARE: 2.531449644138826, counter_report: 43594
+test 30: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45619
+test 31: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45293
+test 32: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45221
+test 33: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45511
+test 34: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45590
+test 35: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45896
+test 36: no_error_count: 12000, error_count: 8, ARE: 1.3966791441383406, counter_report: 44901
+test 37: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45437
+test 38: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45180
+test 39: no_error_count: 11823, error_count: 185, ARE: 1.9684251398409092, counter_report: 44092
+test 40: no_error_count: 12000, error_count: 8, ARE: 1.0647048376601453, counter_report: 43907
+test 41: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45293
+test 42: no_error_count: 12000, error_count: 8, ARE: 3.8647722715649087, counter_report: 44758
+test 43: no_error_count: 11992, error_count: 16, ARE: 1.2542340690536817, counter_report: 45636
+test 44: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45300
+test 45: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45830
+test 46: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44885
+test 47: no_error_count: 12000, error_count: 8, ARE: 1.5558956273390958, counter_report: 43794
+test 48: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44918
+test 49: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45781
+test 50: no_error_count: 10404, error_count: 1604, ARE: 0.7935350180605939, counter_report: 40382
+test 51: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45614
+test 52: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44424
+test 53: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45450
+test 54: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45020
+test 55: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44697
+test 56: no_error_count: 11952, error_count: 56, ARE: 1.9809284336064048, counter_report: 45099
+test 57: no_error_count: 11964, error_count: 44, ARE: 1.4475090141622067, counter_report: 44740
+test 58: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45405
+test 59: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45321
+test 60: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44357
+test 61: no_error_count: 12000, error_count: 8, ARE: 1.1267610177874072, counter_report: 45244
+test 62: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45741
+test 63: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44510
+test 64: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45622
+test 65: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45492
+test 66: no_error_count: 11991, error_count: 17, ARE: 0.9187751443465972, counter_report: 45505
+test 67: no_error_count: 11992, error_count: 16, ARE: 1.4390207524423322, counter_report: 44610
+test 68: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45676
+test 69: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45652
+test 70: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45546
+test 71: no_error_count: 11578, error_count: 430, ARE: 2.467074643081119, counter_report: 43537
+test 72: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44722
+test 73: no_error_count: 11936, error_count: 72, ARE: 2.2196419985624067, counter_report: 43675
+test 74: no_error_count: 11935, error_count: 73, ARE: 1.0357906382001643, counter_report: 43346
+test 75: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44822
+test 76: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45589
+test 77: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44046
+test 78: no_error_count: 11992, error_count: 16, ARE: 3.020583626033714, counter_report: 44166
+test 79: no_error_count: 11754, error_count: 254, ARE: 1.879647694815364, counter_report: 44035
+test 80: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45215
+test 81: no_error_count: 11857, error_count: 151, ARE: 2.2662741910326214, counter_report: 43911
+test 82: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45201
+test 83: no_error_count: 12000, error_count: 8, ARE: 1.1779023306563734, counter_report: 45395
+test 84: no_error_count: 12000, error_count: 8, ARE: 0.9231028199124516, counter_report: 45469
+test 85: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44540
+test 86: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45148
+test 87: no_error_count: 11976, error_count: 32, ARE: 1.4306093093661718, counter_report: 44829
+test 88: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44958
+test 89: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45449
+test 90: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45187
+test 91: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45316
+test 92: no_error_count: 11896, error_count: 112, ARE: 2.6551619120139534, counter_report: 44327
+test 93: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44242
+test 94: no_error_count: 11984, error_count: 24, ARE: 2.1273843451312064, counter_report: 43391
+test 95: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 45715
+test 96: no_error_count: 12000, error_count: 8, ARE: 0.9787123962869836, counter_report: 44354
+test 97: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44600
+test 98: no_error_count: 12008, error_count: 0, ARE: 0, counter_report: 44520
+test 99: no_error_count: 4539, error_count: 7469, ARE: 2.9686294740752803, counter_report: 42600
+test 100: no_error_count: 11992, error_count: 16, ARE: 1.6053368440148477, counter_report: 45170
+test 1: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45546
+test 2: no_error_count: 12098, error_count: 96, ARE: 1.1869517793460058, counter_report: 45615
+test 3: no_error_count: 12190, error_count: 4, ARE: 0.753645089639854, counter_report: 45381
+test 4: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45296
+test 5: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44969
+test 6: no_error_count: 12162, error_count: 32, ARE: 1.151490689623344, counter_report: 46429
+test 7: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44027
+test 8: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45970
+test 9: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44953
+test 10: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46205
+test 11: no_error_count: 12186, error_count: 8, ARE: 0.9562251421942256, counter_report: 46374
+test 12: no_error_count: 11978, error_count: 216, ARE: 1.328444866260108, counter_report: 45376
+test 13: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45844
+test 14: no_error_count: 11880, error_count: 314, ARE: 1.3498478284393969, counter_report: 45743
+test 15: no_error_count: 12122, error_count: 72, ARE: 1.7652134559362498, counter_report: 45011
+test 16: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45047
+test 17: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45366
+test 18: no_error_count: 12177, error_count: 17, ARE: 0.8964976942832383, counter_report: 45843
+test 19: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46133
+test 20: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45434
+test 21: no_error_count: 12146, error_count: 48, ARE: 1.2145447178796447, counter_report: 45355
+test 22: no_error_count: 12146, error_count: 48, ARE: 1.3986423969920792, counter_report: 43957
+test 23: no_error_count: 12186, error_count: 8, ARE: 1.5112004931771061, counter_report: 44870
+test 24: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45797
+test 25: no_error_count: 12162, error_count: 32, ARE: 1.0586565097754612, counter_report: 45384
+test 26: no_error_count: 12186, error_count: 8, ARE: 1.162506290706448, counter_report: 45146
+test 27: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45407
+test 28: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46106
+test 29: no_error_count: 12178, error_count: 16, ARE: 1.2635753468003577, counter_report: 45164
+test 30: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45878
+test 31: no_error_count: 12170, error_count: 24, ARE: 1.3834839794440204, counter_report: 45360
+test 32: no_error_count: 12154, error_count: 40, ARE: 1.3987544556859413, counter_report: 45996
+test 33: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45602
+test 34: no_error_count: 12190, error_count: 4, ARE: 0.8398172546723272, counter_report: 44111
+test 35: no_error_count: 12162, error_count: 32, ARE: 1.2124743238930662, counter_report: 42319
+test 36: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45288
+test 37: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46112
+test 38: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45472
+test 39: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45764
+test 40: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45964
+test 41: no_error_count: 12154, error_count: 40, ARE: 1.1503984691657985, counter_report: 44342
+test 42: no_error_count: 12178, error_count: 16, ARE: 1.1882411130972637, counter_report: 45117
+test 43: no_error_count: 12186, error_count: 8, ARE: 1.3845811245876525, counter_report: 43714
+test 44: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44463
+test 45: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45191
+test 46: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46225
+test 47: no_error_count: 12186, error_count: 8, ARE: 1.6150825757751357, counter_report: 44091
+test 48: no_error_count: 12186, error_count: 8, ARE: 1.3634996582468588, counter_report: 45478
+test 49: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46274
+test 50: no_error_count: 12187, error_count: 7, ARE: 0.6222645625009421, counter_report: 45957
+test 51: no_error_count: 12178, error_count: 16, ARE: 1.5507402594606055, counter_report: 44518
+test 52: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44757
+test 53: no_error_count: 12126, error_count: 68, ARE: 1.2762627083861047, counter_report: 45779
+test 54: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46047
+test 55: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45876
+test 56: no_error_count: 12074, error_count: 120, ARE: 1.5244303708999776, counter_report: 42874
+test 57: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45723
+test 58: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46086
+test 59: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45906
+test 60: no_error_count: 12186, error_count: 8, ARE: 1.0055207370949009, counter_report: 45466
+test 61: no_error_count: 12006, error_count: 188, ARE: 1.5641939837477157, counter_report: 44213
+test 62: no_error_count: 10981, error_count: 1213, ARE: 1.3496616631293727, counter_report: 44699
+test 63: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45316
+test 64: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44934
+test 65: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45995
+test 66: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45031
+test 67: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46348
+test 68: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46050
+test 69: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45799
+test 70: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45954
+test 71: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46071
+test 72: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46230
+test 73: no_error_count: 12082, error_count: 112, ARE: 1.4965299328915056, counter_report: 44601
+test 74: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45706
+test 75: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45498
+test 76: no_error_count: 12162, error_count: 32, ARE: 1.3081244752162189, counter_report: 45663
+test 77: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45472
+test 78: no_error_count: 12162, error_count: 32, ARE: 1.4254651121323283, counter_report: 45720
+test 79: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45771
+test 80: no_error_count: 12186, error_count: 8, ARE: 1.4117310697521703, counter_report: 44915
+test 81: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46186
+test 82: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45957
+test 83: no_error_count: 12138, error_count: 56, ARE: 1.2559659792029143, counter_report: 45637
+test 84: no_error_count: 12170, error_count: 24, ARE: 1.1839577010026467, counter_report: 45099
+test 85: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45360
+test 86: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45556
+test 87: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46016
+test 88: no_error_count: 6290, error_count: 5904, ARE: 1.5791545439973995, counter_report: 44196
+test 89: no_error_count: 12162, error_count: 32, ARE: 0.9622944952683625, counter_report: 44968
+test 90: no_error_count: 12006, error_count: 188, ARE: 1.4296518005828742, counter_report: 44646
+test 91: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45504
+test 92: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45478
+test 93: no_error_count: 12170, error_count: 24, ARE: 1.224102495590406, counter_report: 45501
+test 94: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45848
+test 95: no_error_count: 12146, error_count: 48, ARE: 1.237089200142699, counter_report: 45923
+test 96: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45780
+test 97: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45899
+test 98: no_error_count: 12154, error_count: 40, ARE: 1.5170119809585538, counter_report: 44515
+test 99: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45405
+test 100: no_error_count: 12175, error_count: 19, ARE: 1.1371784187785332, counter_report: 44749
+test 1: no_error_count: 10714, error_count: 1480, ARE: 1.8339285636070384, counter_report: 44462
+test 2: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45058
+test 3: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45563
+test 4: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44808
+test 5: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45836
+test 6: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45281
+test 7: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44905
+test 8: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45890
+test 9: no_error_count: 12186, error_count: 8, ARE: 1.3440405782934617, counter_report: 45439
+test 10: no_error_count: 12050, error_count: 144, ARE: 1.2456574312360935, counter_report: 45059
+test 11: no_error_count: 12186, error_count: 8, ARE: 0.857800612337758, counter_report: 45525
+test 12: no_error_count: 11962, error_count: 232, ARE: 1.2626830521383021, counter_report: 44939
+test 13: no_error_count: 12116, error_count: 78, ARE: 1.4864713459523358, counter_report: 44381
+test 14: no_error_count: 12162, error_count: 32, ARE: 1.411298041921052, counter_report: 45660
+test 15: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46110
+test 16: no_error_count: 12186, error_count: 8, ARE: 1.7216878338672748, counter_report: 45734
+test 17: no_error_count: 12090, error_count: 104, ARE: 1.82033503728373, counter_report: 43783
+test 18: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45222
+test 19: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46084
+test 20: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45296
+test 21: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46011
+test 22: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46502
+test 23: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46601
+test 24: no_error_count: 12162, error_count: 32, ARE: 1.3530211457777621, counter_report: 45700
+test 25: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45498
+test 26: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45781
+test 27: no_error_count: 12138, error_count: 56, ARE: 1.0064907819441173, counter_report: 45843
+test 28: no_error_count: 12154, error_count: 40, ARE: 1.2342899257238138, counter_report: 44763
+test 29: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46104
+test 30: no_error_count: 12178, error_count: 16, ARE: 1.4662866515492627, counter_report: 44902
+test 31: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45892
+test 32: no_error_count: 12020, error_count: 174, ARE: 2.0540931705895678, counter_report: 43932
+test 33: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46396
+test 34: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45788
+test 35: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46324
+test 36: no_error_count: 12031, error_count: 163, ARE: 1.1527999005518739, counter_report: 44451
+test 37: no_error_count: 12039, error_count: 155, ARE: 1.876316909082863, counter_report: 44279
+test 38: no_error_count: 12066, error_count: 128, ARE: 1.4582552542094755, counter_report: 45506
+test 39: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45815
+test 40: no_error_count: 12186, error_count: 8, ARE: 0.8334388989284223, counter_report: 45347
+test 41: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45864
+test 42: no_error_count: 12146, error_count: 48, ARE: 1.3334905482704205, counter_report: 45542
+test 43: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45970
+test 44: no_error_count: 12193, error_count: 1, ARE: 0, counter_report: 45747
+test 45: no_error_count: 12042, error_count: 152, ARE: 1.2499447065573173, counter_report: 45131
+test 46: no_error_count: 11876, error_count: 318, ARE: 1.41485536937045, counter_report: 43798
+test 47: no_error_count: 12098, error_count: 96, ARE: 1.5680195938416575, counter_report: 44181
+test 48: no_error_count: 12186, error_count: 8, ARE: 1.2618800654690043, counter_report: 45665
+test 49: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45129
+test 50: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45468
+test 51: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46047
+test 52: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44910
+test 53: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45390
+test 54: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45515
+test 55: no_error_count: 12106, error_count: 88, ARE: 1.2621445592972487, counter_report: 44277
+test 56: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46048
+test 57: no_error_count: 12162, error_count: 32, ARE: 1.4228047146154452, counter_report: 45287
+test 58: no_error_count: 5154, error_count: 7040, ARE: 1.7344031617033564, counter_report: 43848
+test 59: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46094
+test 60: no_error_count: 12164, error_count: 30, ARE: 1.098535889407411, counter_report: 45643
+test 61: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46075
+test 62: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 43246
+test 63: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45980
+test 64: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45789
+test 65: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46056
+test 66: no_error_count: 12186, error_count: 8, ARE: 0.9088839617674812, counter_report: 46110
+test 67: no_error_count: 12078, error_count: 116, ARE: 1.409006947198508, counter_report: 45269
+test 68: no_error_count: 12178, error_count: 16, ARE: 1.0859831024923547, counter_report: 45927
+test 69: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45801
+test 70: no_error_count: 12162, error_count: 32, ARE: 1.1769105100404595, counter_report: 45309
+test 71: no_error_count: 12125, error_count: 69, ARE: 1.1622457386803422, counter_report: 44142
+test 72: no_error_count: 12178, error_count: 16, ARE: 1.0142613119036001, counter_report: 46314
+test 73: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45895
+test 74: no_error_count: 12178, error_count: 16, ARE: 1.1266122923477138, counter_report: 45411
+test 75: no_error_count: 12170, error_count: 24, ARE: 1.3334618102258968, counter_report: 45898
+test 76: no_error_count: 11528, error_count: 666, ARE: 1.2861661361324384, counter_report: 44097
+test 77: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46176
+test 78: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44991
+test 79: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45680
+test 80: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45361
+test 81: no_error_count: 12162, error_count: 32, ARE: 1.048818350633831, counter_report: 45107
+test 82: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46319
+test 83: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44779
+test 84: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46390
+test 85: no_error_count: 11929, error_count: 265, ARE: 1.144026276547379, counter_report: 44417
+test 86: no_error_count: 12178, error_count: 16, ARE: 1.2151470565860867, counter_report: 44898
+test 87: no_error_count: 12150, error_count: 44, ARE: 1.463290804773716, counter_report: 45365
+test 88: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46263
+test 89: no_error_count: 12170, error_count: 24, ARE: 0.8908429235600436, counter_report: 46216
+test 90: no_error_count: 12110, error_count: 84, ARE: 1.2789165896408161, counter_report: 45307
+test 91: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45549
+test 92: no_error_count: 12186, error_count: 8, ARE: 1.14363774523349, counter_report: 45685
+test 93: no_error_count: 12186, error_count: 8, ARE: 1.2080171861892357, counter_report: 45592
+test 94: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45707
+test 95: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44870
+test 96: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45809
+test 97: no_error_count: 12178, error_count: 16, ARE: 0.9818466135335348, counter_report: 45197
+test 98: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45417
+test 99: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46020
+test 100: no_error_count: 12057, error_count: 137, ARE: 1.4968063526918096, counter_report: 44745
+test 101: no_error_count: 12170, error_count: 24, ARE: 1.195671555444853, counter_report: 43814
+test 102: no_error_count: 12146, error_count: 48, ARE: 1.320716433793055, counter_report: 45661
+test 103: no_error_count: 12190, error_count: 4, ARE: 0.5662240906171542, counter_report: 45474
+test 104: no_error_count: 12154, error_count: 40, ARE: 1.0145033255127789, counter_report: 45119
+test 105: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45448
+test 106: no_error_count: 12186, error_count: 8, ARE: 0.939151875433161, counter_report: 45132
+test 107: no_error_count: 12178, error_count: 16, ARE: 0.998485331899226, counter_report: 45272
+test 108: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46372
+test 109: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45875
+test 110: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45926
+test 111: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45915
+test 112: no_error_count: 12122, error_count: 72, ARE: 0.9818563672696258, counter_report: 45487
+test 113: no_error_count: 11989, error_count: 205, ARE: 1.497269896629172, counter_report: 44536
+test 114: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46267
+test 115: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45142
+test 116: no_error_count: 11950, error_count: 244, ARE: 1.2792330687151678, counter_report: 44957
+test 117: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45932
+test 118: no_error_count: 12114, error_count: 80, ARE: 1.5096652104025023, counter_report: 45487
+test 119: no_error_count: 12002, error_count: 192, ARE: 1.4975866394405244, counter_report: 44757
+test 120: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45600
+test 121: no_error_count: 12162, error_count: 32, ARE: 1.4600081731505141, counter_report: 44902
+test 122: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45624
+test 123: no_error_count: 12186, error_count: 8, ARE: 1.362732387009481, counter_report: 45524
+test 124: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45073
+test 125: no_error_count: 5800, error_count: 6394, ARE: 1.7947063762567106, counter_report: 43140
+test 126: no_error_count: 12154, error_count: 40, ARE: 1.2865309028657481, counter_report: 45352
+test 127: no_error_count: 12148, error_count: 46, ARE: 1.3000781382702429, counter_report: 45306
+test 128: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46099
+test 129: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45781
+test 130: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45270
+test 131: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46110
+test 132: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46307
+test 133: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46300
+test 134: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45484
+test 135: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45694
+test 136: no_error_count: 12162, error_count: 32, ARE: 1.0970542101310103, counter_report: 44732
+test 137: no_error_count: 12130, error_count: 64, ARE: 1.1758695498905583, counter_report: 45046
+test 138: no_error_count: 12032, error_count: 162, ARE: 1.365120481285963, counter_report: 44507
+test 139: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45599
+test 140: no_error_count: 12178, error_count: 16, ARE: 1.2988628680930905, counter_report: 45962
+test 141: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45943
+test 142: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45737
+test 143: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46081
+test 144: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44730
+test 145: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45327
+test 146: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45707
+test 147: no_error_count: 12170, error_count: 24, ARE: 1.0896310975962435, counter_report: 45849
+test 148: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45555
+test 149: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46507
+test 150: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45343
+test 151: no_error_count: 12162, error_count: 32, ARE: 1.3230878002870328, counter_report: 45404
+test 152: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46067
+test 153: no_error_count: 12170, error_count: 24, ARE: 1.2390384302111104, counter_report: 45752
+test 154: no_error_count: 12186, error_count: 8, ARE: 1.291172218159971, counter_report: 45863
+test 155: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45756
+test 156: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46311
+test 157: no_error_count: 12178, error_count: 16, ARE: 1.1933632634622238, counter_report: 44980
+test 158: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45746
+test 159: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46266
+test 160: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45858
+test 161: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45243
+test 162: no_error_count: 12186, error_count: 8, ARE: 1.1797388338819614, counter_report: 45632
+test 163: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45470
+test 164: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45592
+test 165: no_error_count: 12190, error_count: 4, ARE: 0.6786590970532576, counter_report: 45825
+test 166: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45901
+test 167: no_error_count: 9797, error_count: 2397, ARE: 1.8342135357780065, counter_report: 43559
+test 168: no_error_count: 12178, error_count: 16, ARE: 1.2564357398006292, counter_report: 44538
+test 169: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45929
+test 170: no_error_count: 11910, error_count: 284, ARE: 1.2711168838684164, counter_report: 43718
+test 171: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44785
+test 172: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45872
+test 173: no_error_count: 12186, error_count: 8, ARE: 1.5255983565570324, counter_report: 44815
+test 174: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45569
+test 175: no_error_count: 12190, error_count: 4, ARE: 0.818962645539024, counter_report: 45994
+test 176: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46202
+test 177: no_error_count: 12190, error_count: 4, ARE: 0.5649658348187759, counter_report: 45815
+test 178: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45919
+test 179: no_error_count: 11922, error_count: 272, ARE: 1.1658802997269628, counter_report: 45979
+test 180: no_error_count: 12170, error_count: 24, ARE: 1.4769474882941136, counter_report: 46227
+test 181: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45984
+test 182: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46295
+test 183: no_error_count: 12170, error_count: 24, ARE: 1.2477647435810637, counter_report: 45209
+test 184: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46371
+test 185: no_error_count: 12154, error_count: 40, ARE: 1.0952752676910578, counter_report: 45867
+test 186: no_error_count: 12182, error_count: 12, ARE: 0.7299231133899095, counter_report: 45154
+test 187: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45886
+test 188: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45395
+test 189: no_error_count: 11597, error_count: 597, ARE: 1.3053077540842668, counter_report: 44305
+test 190: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46318
+test 191: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45223
+test 192: no_error_count: 12162, error_count: 32, ARE: 1.6233894821160664, counter_report: 43391
+test 193: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45635
+test 194: no_error_count: 12154, error_count: 40, ARE: 1.2350148416862319, counter_report: 43846
+test 195: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46005
+test 196: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45831
+test 197: no_error_count: 12178, error_count: 16, ARE: 1.887552482691485, counter_report: 45166
+test 198: no_error_count: 12164, error_count: 30, ARE: 0.8871470352302663, counter_report: 43961
+test 199: no_error_count: 12162, error_count: 32, ARE: 1.2128802208312082, counter_report: 45803
+test 200: no_error_count: 11408, error_count: 786, ARE: 1.706050650981945, counter_report: 44078
+test 201: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46244
+test 202: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45759
+test 203: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46285
+test 204: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45333
+test 205: no_error_count: 12186, error_count: 8, ARE: 1.2294520187465512, counter_report: 45762
+test 206: no_error_count: 12138, error_count: 56, ARE: 1.2313980787549472, counter_report: 45022
+test 207: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45231
+test 208: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46008
+test 209: no_error_count: 12170, error_count: 24, ARE: 0.9884125646779472, counter_report: 45942
+test 210: no_error_count: 12186, error_count: 8, ARE: 1.2574719248933381, counter_report: 44610
+test 211: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45993
+test 212: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45986
+test 213: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46119
+test 214: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46241
+test 215: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45305
+test 216: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45865
+test 217: no_error_count: 12166, error_count: 28, ARE: 2.2465073796803856, counter_report: 43998
+test 218: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46076
+test 219: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46232
+test 220: no_error_count: 12008, error_count: 186, ARE: 1.3270267399592781, counter_report: 44810
+test 221: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46505
+test 222: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44425
+test 223: no_error_count: 12192, error_count: 2, ARE: 0, counter_report: 45059
+test 224: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45867
+test 225: no_error_count: 12146, error_count: 48, ARE: 1.555699460318633, counter_report: 44848
+test 226: no_error_count: 12162, error_count: 32, ARE: 1.0629185297376842, counter_report: 43673
+test 227: no_error_count: 12178, error_count: 16, ARE: 1.295273769485249, counter_report: 44117
+test 228: no_error_count: 12186, error_count: 8, ARE: 1.4990788394837051, counter_report: 46437
+test 229: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45304
+test 230: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46411
+test 231: no_error_count: 12130, error_count: 64, ARE: 1.2761907558466876, counter_report: 45597
+test 232: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46244
+test 233: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45462
+test 234: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45862
+test 235: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46041
+test 236: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45480
+test 237: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46072
+test 238: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45704
+test 239: no_error_count: 12029, error_count: 165, ARE: 1.7024381688289167, counter_report: 44944
+test 240: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45974
+test 241: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46057
+test 242: no_error_count: 12170, error_count: 24, ARE: 0.9353435362374402, counter_report: 45585
+test 243: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46489
+test 244: no_error_count: 12170, error_count: 24, ARE: 1.2680423277566248, counter_report: 44742
+test 245: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46251
+test 246: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46355
+test 247: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46017
+test 248: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46505
+test 249: no_error_count: 12154, error_count: 40, ARE: 1.252020717963393, counter_report: 45373
+test 250: no_error_count: 12162, error_count: 32, ARE: 0.9920296646452614, counter_report: 45346
+test 251: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45993
+test 252: no_error_count: 12106, error_count: 88, ARE: 1.105727577595632, counter_report: 45484
+test 253: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46001
+test 254: no_error_count: 12186, error_count: 8, ARE: 1.0782485810991542, counter_report: 44949
+test 255: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45937
+test 256: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45784
+test 257: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45439
+test 258: no_error_count: 12154, error_count: 40, ARE: 1.0796934300750842, counter_report: 45932
+test 259: no_error_count: 12178, error_count: 16, ARE: 1.0189245329603684, counter_report: 46333
+test 260: no_error_count: 12186, error_count: 8, ARE: 0.8970723519639088, counter_report: 45808
+test 261: no_error_count: 11226, error_count: 968, ARE: 1.4488740948605787, counter_report: 45385
+test 262: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46333
+test 263: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45869
+test 264: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45218
+test 265: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46211
+test 266: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46414
+test 267: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45844
+test 268: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45387
+test 269: no_error_count: 12162, error_count: 32, ARE: 1.1137902479863944, counter_report: 45587
+test 270: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46146
+test 271: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45879
+test 272: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46141
+test 273: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45319
+test 274: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44185
+test 275: no_error_count: 12189, error_count: 5, ARE: 0.72089538912104, counter_report: 45992
+test 276: no_error_count: 12146, error_count: 48, ARE: 1.1651954224499965, counter_report: 45382
+test 277: no_error_count: 11954, error_count: 240, ARE: 1.621394769889569, counter_report: 44432
+test 278: no_error_count: 12110, error_count: 84, ARE: 2.059221682938685, counter_report: 43368
+test 279: no_error_count: 12186, error_count: 8, ARE: 1.9222591306699286, counter_report: 45687
+test 280: no_error_count: 12154, error_count: 40, ARE: 1.3923548528302716, counter_report: 44732
+test 281: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45556
+test 282: no_error_count: 12187, error_count: 7, ARE: 0.7620579315167132, counter_report: 45702
+test 283: no_error_count: 12146, error_count: 48, ARE: 1.3583471181522586, counter_report: 44640
+test 284: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45828
+test 285: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45101
+test 286: no_error_count: 12090, error_count: 104, ARE: 1.4344676676727262, counter_report: 44910
+test 287: no_error_count: 12130, error_count: 64, ARE: 1.2590801981037956, counter_report: 45821
+test 288: no_error_count: 12193, error_count: 1, ARE: 0, counter_report: 45380
+test 289: no_error_count: 12138, error_count: 56, ARE: 1.5697906888510735, counter_report: 45016
+test 290: no_error_count: 12106, error_count: 88, ARE: 1.241216953865915, counter_report: 44201
+test 291: no_error_count: 12162, error_count: 32, ARE: 1.6303224051095884, counter_report: 45264
+test 292: no_error_count: 12074, error_count: 120, ARE: 1.2431837939879842, counter_report: 44813
+test 293: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45924
+test 294: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46583
+test 295: no_error_count: 12186, error_count: 8, ARE: 1.338157225171859, counter_report: 44589
+test 296: no_error_count: 12074, error_count: 120, ARE: 1.098053212208172, counter_report: 45201
+test 297: no_error_count: 12094, error_count: 100, ARE: 1.4354905401390747, counter_report: 44718
+test 298: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45858
+test 299: no_error_count: 12154, error_count: 40, ARE: 1.2061699851612033, counter_report: 44948
+test 300: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44877
+test 301: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46233
+test 302: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45864
+test 303: no_error_count: 12186, error_count: 8, ARE: 1.2968807970372334, counter_report: 45942
+test 304: no_error_count: 12162, error_count: 32, ARE: 1.2005074668605007, counter_report: 45210
+test 305: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45152
+test 306: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45917
+test 307: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45644
+test 308: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46192
+test 309: no_error_count: 12178, error_count: 16, ARE: 0.9576864360471002, counter_report: 45760
+test 310: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45585
+test 311: no_error_count: 12146, error_count: 48, ARE: 1.4646280031963839, counter_report: 44855
+test 312: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45699
+test 313: no_error_count: 12184, error_count: 10, ARE: 0.6133359834183311, counter_report: 44804
+test 314: no_error_count: 12178, error_count: 16, ARE: 1.211420137519449, counter_report: 45966
+test 315: no_error_count: 12009, error_count: 185, ARE: 1.6319340339734758, counter_report: 44304
+test 316: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45532
+test 317: no_error_count: 12186, error_count: 8, ARE: 1.1975879094045927, counter_report: 46125
+test 318: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45913
+test 319: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45734
+test 320: no_error_count: 12186, error_count: 8, ARE: 1.134328484631025, counter_report: 46385
+test 321: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46013
+test 322: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46375
+test 323: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45734
+test 324: no_error_count: 12162, error_count: 32, ARE: 1.9302611829066245, counter_report: 45094
+test 325: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45397
+test 326: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46002
+test 327: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44238
+test 328: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46093
+test 329: no_error_count: 12178, error_count: 16, ARE: 1.3194749360068496, counter_report: 45302
+test 330: no_error_count: 12190, error_count: 4, ARE: 0.6130198907415002, counter_report: 45826
+test 331: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45958
+test 332: no_error_count: 12178, error_count: 16, ARE: 1.3236812194665621, counter_report: 45983
+test 333: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46007
+test 334: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46368
+test 335: no_error_count: 12186, error_count: 8, ARE: 1.5028029120368211, counter_report: 44996
+test 336: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45918
+test 337: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45437
+test 338: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46225
+test 339: no_error_count: 12170, error_count: 24, ARE: 1.553901753022016, counter_report: 45573
+test 340: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46177
+test 341: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46162
+test 342: no_error_count: 12122, error_count: 72, ARE: 1.6042394085657379, counter_report: 44490
+test 343: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45585
+test 344: no_error_count: 12178, error_count: 16, ARE: 0.9179011561976911, counter_report: 46172
+test 345: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46138
+test 346: no_error_count: 12150, error_count: 44, ARE: 1.1644983641880857, counter_report: 45622
+test 347: no_error_count: 12186, error_count: 8, ARE: 1.2937563727378771, counter_report: 45457
+test 348: no_error_count: 9719, error_count: 2475, ARE: 1.620896767965406, counter_report: 43957
+test 349: no_error_count: 12186, error_count: 8, ARE: 1.1032651087328598, counter_report: 45711
+test 350: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46112
+test 351: no_error_count: 12124, error_count: 70, ARE: 1.142566416290834, counter_report: 44925
+test 352: no_error_count: 12170, error_count: 24, ARE: 1.726493979538364, counter_report: 45156
+test 353: no_error_count: 12178, error_count: 16, ARE: 1.2660210858089513, counter_report: 45810
+test 354: no_error_count: 12186, error_count: 8, ARE: 0.9971542677774358, counter_report: 45588
+test 355: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45756
+test 356: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46318
+test 357: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46452
+test 358: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46391
+test 359: no_error_count: 12162, error_count: 32, ARE: 1.3310601399763478, counter_report: 44956
+test 360: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45781
+test 361: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46365
+test 362: no_error_count: 12146, error_count: 48, ARE: 1.5859882843908517, counter_report: 44510
+test 363: no_error_count: 11861, error_count: 333, ARE: 1.6919683604344307, counter_report: 44487
+test 364: no_error_count: 12178, error_count: 16, ARE: 0.849950317817264, counter_report: 46101
+test 365: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46139
+test 366: no_error_count: 11958, error_count: 236, ARE: 1.7574816055794786, counter_report: 44099
+test 367: no_error_count: 12186, error_count: 8, ARE: 1.8472704763155017, counter_report: 45391
+test 368: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46123
+test 369: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46319
+test 370: no_error_count: 12178, error_count: 16, ARE: 1.0627970600038807, counter_report: 43926
+test 371: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46171
+test 372: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45366
+test 373: no_error_count: 12186, error_count: 8, ARE: 1.0753437069187415, counter_report: 46029
+test 374: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46012
+test 375: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45786
+test 376: no_error_count: 12179, error_count: 15, ARE: 0.6798718409442567, counter_report: 45159
+test 377: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46094
+test 378: no_error_count: 12186, error_count: 8, ARE: 1.0216109387765104, counter_report: 45117
+test 379: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45963
+test 380: no_error_count: 12162, error_count: 32, ARE: 1.4335219953865077, counter_report: 44487
+test 381: no_error_count: 12154, error_count: 40, ARE: 0.9885148230232688, counter_report: 45827
+test 382: no_error_count: 12154, error_count: 40, ARE: 0.9085712692378571, counter_report: 43577
+test 383: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45418
+test 384: no_error_count: 12162, error_count: 32, ARE: 1.0794855917588573, counter_report: 45805
+test 385: no_error_count: 8981, error_count: 3213, ARE: 1.444523485915763, counter_report: 44387
+test 386: no_error_count: 12138, error_count: 56, ARE: 1.0348010437567663, counter_report: 45776
+test 387: no_error_count: 11665, error_count: 529, ARE: 1.7141052343515868, counter_report: 43788
+test 388: no_error_count: 12154, error_count: 40, ARE: 1.0354703709159796, counter_report: 46082
+test 389: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45806
+test 390: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45983
+test 391: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46361
+test 392: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46214
+test 393: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46498
+test 394: no_error_count: 12193, error_count: 1, ARE: 0, counter_report: 45919
+test 395: no_error_count: 12126, error_count: 68, ARE: 0.7999776375236333, counter_report: 44272
+test 396: no_error_count: 12186, error_count: 8, ARE: 1.206862318737575, counter_report: 46374
+test 397: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46320
+test 398: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45615
+test 399: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45863
+test 400: no_error_count: 12186, error_count: 8, ARE: 1.5244274300561602, counter_report: 44588
+test 401: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45328
+test 402: no_error_count: 12170, error_count: 24, ARE: 1.2011068942052014, counter_report: 45341
+test 403: no_error_count: 12146, error_count: 48, ARE: 1.2561427189906926, counter_report: 44875
+test 404: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46262
+test 405: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45237
+test 406: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45999
+test 407: no_error_count: 12178, error_count: 16, ARE: 1.0971240942028986, counter_report: 45401
+test 408: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46064
+test 409: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44604
+test 410: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45714
+test 411: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45675
+test 412: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45576
+test 413: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46390
+test 414: no_error_count: 12178, error_count: 16, ARE: 1.4902753930164159, counter_report: 45080
+test 415: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45775
+test 416: no_error_count: 12154, error_count: 40, ARE: 0.9515179690519675, counter_report: 45990
+test 417: no_error_count: 12186, error_count: 8, ARE: 1.0324729140167093, counter_report: 45791
+test 418: no_error_count: 12142, error_count: 52, ARE: 1.4733815926201148, counter_report: 44845
+test 419: no_error_count: 12178, error_count: 16, ARE: 1.0879483246097692, counter_report: 45476
+test 420: no_error_count: 12178, error_count: 16, ARE: 1.6420422494010025, counter_report: 44444
+test 421: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44193
+test 422: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46181
+test 423: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46231
+test 424: no_error_count: 12122, error_count: 72, ARE: 1.2780100838758877, counter_report: 44487
+test 425: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46218
+test 426: no_error_count: 12180, error_count: 14, ARE: 0.727591500258257, counter_report: 45175
+test 427: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46302
+test 428: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46250
+test 429: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45727
+test 430: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46430
+test 431: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46344
+test 432: no_error_count: 12185, error_count: 9, ARE: 1.002667702025125, counter_report: 44446
+test 433: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45584
+test 434: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46155
+test 435: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45899
+test 436: no_error_count: 12186, error_count: 8, ARE: 1.442038918852012, counter_report: 44266
+test 437: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46378
+test 438: no_error_count: 12189, error_count: 5, ARE: 0.6011455286518532, counter_report: 45180
+test 439: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45932
+test 440: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46019
+test 441: no_error_count: 9642, error_count: 2552, ARE: 1.5578649203254558, counter_report: 44614
+test 442: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46085
+test 443: no_error_count: 12170, error_count: 24, ARE: 1.172613087179702, counter_report: 45439
+test 444: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45273
+test 445: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46009
+test 446: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45814
+test 447: no_error_count: 12186, error_count: 8, ARE: 1.1871344074871186, counter_report: 45876
+test 448: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46605
+test 449: no_error_count: 12170, error_count: 24, ARE: 1.424531340564054, counter_report: 45801
+test 450: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45878
+test 451: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46385
+test 452: no_error_count: 12186, error_count: 8, ARE: 0.9892610791334051, counter_report: 46054
+test 453: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45781
+test 454: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46036
+test 455: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46224
+test 456: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46056
+test 457: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45421
+test 458: no_error_count: 11974, error_count: 220, ARE: 1.7736775489848438, counter_report: 44927
+test 459: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45907
+test 460: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45108
+test 461: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46202
+test 462: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45612
+test 463: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46403
+test 464: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44855
+test 465: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46351
+test 466: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44827
+test 467: no_error_count: 12084, error_count: 110, ARE: 1.3719065343727017, counter_report: 44653
+test 468: no_error_count: 12186, error_count: 8, ARE: 1.1144623773988487, counter_report: 46121
+test 469: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45661
+test 470: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46191
+test 471: no_error_count: 12186, error_count: 8, ARE: 1.2302618429157064, counter_report: 45758
+test 472: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45806
+test 473: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45088
+test 474: no_error_count: 12186, error_count: 8, ARE: 1.3984923572541104, counter_report: 44508
+test 475: no_error_count: 12186, error_count: 8, ARE: 1.1803064410815156, counter_report: 45827
+test 476: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46138
+test 477: no_error_count: 12186, error_count: 8, ARE: 0.9739577938380108, counter_report: 44918
+test 478: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45991
+test 479: no_error_count: 12170, error_count: 24, ARE: 1.1934504714040448, counter_report: 45405
+test 480: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44903
+test 481: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46557
+test 482: no_error_count: 5299, error_count: 6895, ARE: 1.5703120134671487, counter_report: 42884
+test 483: no_error_count: 12046, error_count: 148, ARE: 1.6914160749316884, counter_report: 45235
+test 484: no_error_count: 12162, error_count: 32, ARE: 1.26583025798984, counter_report: 46053
+test 485: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46351
+test 486: no_error_count: 12170, error_count: 24, ARE: 1.0284381234606383, counter_report: 44421
+test 487: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46240
+test 488: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45833
+test 489: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46417
+test 490: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45784
+test 491: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46511
+test 492: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45067
+test 493: no_error_count: 12026, error_count: 168, ARE: 1.2885313380543408, counter_report: 45697
+test 494: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45738
+test 495: no_error_count: 12122, error_count: 72, ARE: 1.0296591009712228, counter_report: 45879
+test 496: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45769
+test 497: no_error_count: 12170, error_count: 24, ARE: 1.3783958297782835, counter_report: 44209
+test 498: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46165
+test 499: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46433
+test 500: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46361
+test 501: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45487
+test 502: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44585
+test 503: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45862
+test 504: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45722
+test 505: no_error_count: 12076, error_count: 118, ARE: 1.3326032559230248, counter_report: 45645
+test 506: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45906
+test 507: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45800
+test 508: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46076
+test 509: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46174
+test 510: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45644
+test 511: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45531
+test 512: no_error_count: 12106, error_count: 88, ARE: 1.3085053325977707, counter_report: 45367
+test 513: no_error_count: 11624, error_count: 570, ARE: 1.472724268162631, counter_report: 44438
+test 514: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45076
+test 515: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46176
+test 516: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46298
+test 517: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46376
+test 518: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45722
+test 519: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46275
+test 520: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45959
+test 521: no_error_count: 12154, error_count: 40, ARE: 1.1075967754048193, counter_report: 45719
+test 522: no_error_count: 12126, error_count: 68, ARE: 1.4641437026153659, counter_report: 44782
+test 523: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45192
+test 524: no_error_count: 12186, error_count: 8, ARE: 1.4582190074809893, counter_report: 45264
+test 525: no_error_count: 12186, error_count: 8, ARE: 1.0876348255563812, counter_report: 45438
+test 526: no_error_count: 12186, error_count: 8, ARE: 1.4049586893454888, counter_report: 45878
+test 527: no_error_count: 12166, error_count: 28, ARE: 1.7856265957591049, counter_report: 43725
+test 528: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46029
+test 529: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44903
+test 530: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45402
+test 531: no_error_count: 12178, error_count: 16, ARE: 1.1300292443243407, counter_report: 45851
+test 532: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46223
+test 533: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46375
+test 534: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44817
+test 535: no_error_count: 12178, error_count: 16, ARE: 1.0877520725955119, counter_report: 46173
+test 536: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44732
+test 537: no_error_count: 11879, error_count: 315, ARE: 1.4943570994468558, counter_report: 42128
+test 538: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46143
+test 539: no_error_count: 12170, error_count: 24, ARE: 1.7951875462189364, counter_report: 44185
+test 540: no_error_count: 11592, error_count: 602, ARE: 1.5681768016727433, counter_report: 44584
+test 541: no_error_count: 12154, error_count: 40, ARE: 1.2242028312647881, counter_report: 45437
+test 542: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45740
+test 543: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45343
+test 544: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46467
+test 545: no_error_count: 12076, error_count: 118, ARE: 1.3567122521197539, counter_report: 44234
+test 546: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45642
+test 547: no_error_count: 12170, error_count: 24, ARE: 1.3885604614535658, counter_report: 44643
+test 548: no_error_count: 12186, error_count: 8, ARE: 1.376637751481148, counter_report: 46051
+test 549: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45834
+test 550: no_error_count: 12186, error_count: 8, ARE: 1.1648903463824554, counter_report: 45391
+test 551: no_error_count: 12186, error_count: 8, ARE: 1.5933276793668063, counter_report: 44755
+test 552: no_error_count: 12130, error_count: 64, ARE: 1.3360716064832947, counter_report: 45618
+test 553: no_error_count: 12082, error_count: 112, ARE: 1.0064107184467133, counter_report: 45712
+test 554: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45820
+test 555: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45583
+test 556: no_error_count: 9505, error_count: 2689, ARE: 1.237162397213879, counter_report: 44211
+test 557: no_error_count: 12186, error_count: 8, ARE: 1.3094925890682227, counter_report: 45745
+test 558: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46104
+test 559: no_error_count: 12186, error_count: 8, ARE: 1.2169888694573783, counter_report: 45801
+test 560: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46209
+test 561: no_error_count: 12070, error_count: 124, ARE: 1.3909497994412476, counter_report: 45123
+test 562: no_error_count: 12161, error_count: 33, ARE: 0.9038564689855094, counter_report: 45262
+test 563: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45587
+test 564: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45708
+test 565: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45222
+test 566: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44075
+test 567: no_error_count: 11563, error_count: 631, ARE: 1.6527849139144566, counter_report: 44633
+test 568: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46101
+test 569: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45823
+test 570: no_error_count: 12186, error_count: 8, ARE: 1.3424388635643183, counter_report: 45500
+test 571: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45257
+test 572: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44951
+test 573: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45981
+test 574: no_error_count: 12178, error_count: 16, ARE: 1.3971590284495647, counter_report: 44812
+test 575: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46034
+test 576: no_error_count: 12162, error_count: 32, ARE: 1.1813467017385686, counter_report: 45319
+test 577: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45654
+test 578: no_error_count: 12162, error_count: 32, ARE: 1.3338298740149586, counter_report: 45269
+test 579: no_error_count: 12185, error_count: 9, ARE: 0.4963757068807636, counter_report: 44531
+test 580: no_error_count: 12014, error_count: 180, ARE: 1.2139912948070974, counter_report: 45541
+test 581: no_error_count: 12178, error_count: 16, ARE: 1.0829088658229047, counter_report: 45708
+test 582: no_error_count: 12178, error_count: 16, ARE: 1.046025111915983, counter_report: 46180
+test 583: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44244
+test 584: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44379
+test 585: no_error_count: 12186, error_count: 8, ARE: 1.1766987805879294, counter_report: 45900
+test 586: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45932
+test 587: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46215
+test 588: no_error_count: 12122, error_count: 72, ARE: 1.1724314030028475, counter_report: 46119
+test 589: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46083
+test 590: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46016
+test 591: no_error_count: 12178, error_count: 16, ARE: 0.9376379842452502, counter_report: 46166
+test 592: no_error_count: 12186, error_count: 8, ARE: 1.7621187003455696, counter_report: 45886
+test 593: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45872
+test 594: no_error_count: 12154, error_count: 40, ARE: 1.1233033678345832, counter_report: 44668
+test 595: no_error_count: 11945, error_count: 249, ARE: 1.6353879795894737, counter_report: 44893
+test 596: no_error_count: 12170, error_count: 24, ARE: 1.095621582243325, counter_report: 46293
+test 597: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46576
+test 598: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45113
+test 599: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 43942
+test 600: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45841
+test 601: no_error_count: 12130, error_count: 64, ARE: 1.1057955987131431, counter_report: 44814
+test 602: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46275
+test 603: no_error_count: 12070, error_count: 124, ARE: 1.3777444439287037, counter_report: 45736
+test 604: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46358
+test 605: no_error_count: 12170, error_count: 24, ARE: 1.4305916385122996, counter_report: 45679
+test 606: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45758
+test 607: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46425
+test 608: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46395
+test 609: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45704
+test 610: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46309
+test 611: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45576
+test 612: no_error_count: 12154, error_count: 40, ARE: 1.3375283413471197, counter_report: 43664
+test 613: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45725
+test 614: no_error_count: 12131, error_count: 63, ARE: 1.4112734095128872, counter_report: 44746
+test 615: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46285
+test 616: no_error_count: 12182, error_count: 12, ARE: 0.6616955942915586, counter_report: 45921
+test 617: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45806
+test 618: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46197
+test 619: no_error_count: 12154, error_count: 40, ARE: 1.4396599621215966, counter_report: 44822
+test 620: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46467
+test 621: no_error_count: 12114, error_count: 80, ARE: 1.471234536370396, counter_report: 45489
+test 622: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46269
+test 623: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44947
+test 624: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45913
+test 625: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45460
+test 626: no_error_count: 6720, error_count: 5474, ARE: 1.740351449450155, counter_report: 44293
+test 627: no_error_count: 12186, error_count: 8, ARE: 2.038775122693922, counter_report: 45250
+test 628: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45350
+test 629: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46305
+test 630: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45854
+test 631: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45535
+test 632: no_error_count: 11781, error_count: 413, ARE: 1.3426426371015048, counter_report: 44899
+test 633: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45703
+test 634: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45868
+test 635: no_error_count: 12178, error_count: 16, ARE: 1.6769575054802162, counter_report: 44903
+test 636: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45834
+test 637: no_error_count: 12170, error_count: 24, ARE: 1.2654542974874092, counter_report: 44648
+test 638: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46237
+test 639: no_error_count: 12146, error_count: 48, ARE: 1.2240794595642213, counter_report: 45514
+test 640: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45388
+test 641: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45923
+test 642: no_error_count: 12158, error_count: 36, ARE: 1.2159592284294678, counter_report: 45569
+test 643: no_error_count: 12189, error_count: 5, ARE: 0.6071389404619432, counter_report: 45586
+test 644: no_error_count: 11897, error_count: 297, ARE: 1.2040152157334951, counter_report: 45955
+test 645: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45094
+test 646: no_error_count: 12162, error_count: 32, ARE: 1.0451471948455584, counter_report: 46411
+test 647: no_error_count: 12186, error_count: 8, ARE: 1.0813443134991394, counter_report: 46342
+test 648: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46027
+test 649: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46094
+test 650: no_error_count: 12178, error_count: 16, ARE: 0.9373272422437428, counter_report: 44797
+test 651: no_error_count: 12170, error_count: 24, ARE: 1.0973755152369506, counter_report: 46028
+test 652: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46249
+test 653: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46315
+test 654: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46346
+test 655: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46081
+test 656: no_error_count: 4626, error_count: 7568, ARE: 1.6629003843684593, counter_report: 43203
+test 657: no_error_count: 11737, error_count: 457, ARE: 1.256641132004407, counter_report: 44373
+test 658: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45534
+test 659: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45652
+test 660: no_error_count: 12170, error_count: 24, ARE: 1.2494418989094447, counter_report: 45407
+test 661: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45965
+test 662: no_error_count: 12146, error_count: 48, ARE: 1.6557374873622213, counter_report: 45233
+test 663: no_error_count: 12170, error_count: 24, ARE: 1.3031411455718152, counter_report: 44763
+test 664: no_error_count: 12178, error_count: 16, ARE: 1.199489513549576, counter_report: 45644
+test 665: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45854
+test 666: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45659
+test 667: no_error_count: 12178, error_count: 16, ARE: 1.4061009973808847, counter_report: 44305
+test 668: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46329
+test 669: no_error_count: 12170, error_count: 24, ARE: 1.2445046551044707, counter_report: 45178
+test 670: no_error_count: 12130, error_count: 64, ARE: 1.1567320683485316, counter_report: 45245
+test 671: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45633
+test 672: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46156
+test 673: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45565
+test 674: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45729
+test 675: no_error_count: 12146, error_count: 48, ARE: 0.9781279363843723, counter_report: 45574
+test 676: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46142
+test 677: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45468
+test 678: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46458
+test 679: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45547
+test 680: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45938
+test 681: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45774
+test 682: no_error_count: 3907, error_count: 8287, ARE: 1.8708765132048064, counter_report: 43540
+test 683: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45526
+test 684: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45891
+test 685: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44628
+test 686: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45983
+test 687: no_error_count: 12138, error_count: 56, ARE: 1.6314099001202231, counter_report: 44396
+test 688: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45204
+test 689: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45455
+test 690: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45978
+test 691: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45992
+test 692: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46058
+test 693: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45501
+test 694: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45093
+test 695: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45567
+test 696: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46187
+test 697: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45673
+test 698: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45967
+test 699: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46229
+test 700: no_error_count: 11787, error_count: 407, ARE: 1.6616404409778445, counter_report: 44619
+test 701: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46528
+test 702: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45100
+test 703: no_error_count: 12106, error_count: 88, ARE: 1.1901547216950104, counter_report: 45430
+test 704: no_error_count: 12178, error_count: 16, ARE: 1.265404993970284, counter_report: 45198
+test 705: no_error_count: 12178, error_count: 16, ARE: 1.4746765185486927, counter_report: 45872
+test 706: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44340
+test 707: no_error_count: 12170, error_count: 24, ARE: 0.7945046942188911, counter_report: 46043
+test 708: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45885
+test 709: no_error_count: 12186, error_count: 8, ARE: 1.193732162891618, counter_report: 46177
+test 710: no_error_count: 11608, error_count: 586, ARE: 1.518953154471455, counter_report: 43874
+test 711: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45281
+test 712: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45057
+test 713: no_error_count: 11932, error_count: 262, ARE: 1.5926658617899574, counter_report: 44746
+test 714: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45157
+test 715: no_error_count: 12186, error_count: 8, ARE: 1.0312280858747325, counter_report: 44764
+test 716: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45550
+test 717: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46503
+test 718: no_error_count: 12178, error_count: 16, ARE: 1.4588672744918652, counter_report: 44857
+test 719: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44958
+test 720: no_error_count: 12186, error_count: 8, ARE: 1.388594313694171, counter_report: 44536
+test 721: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45475
+test 722: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46261
+test 723: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46354
+test 724: no_error_count: 11421, error_count: 773, ARE: 1.4893544045197464, counter_report: 44081
+test 725: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46009
+test 726: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45972
+test 727: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46207
+test 728: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45890
+test 729: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46403
+test 730: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45206
+test 731: no_error_count: 12138, error_count: 56, ARE: 1.2922775167811882, counter_report: 45496
+test 732: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45432
+test 733: no_error_count: 12178, error_count: 16, ARE: 1.2014608222763297, counter_report: 45966
+test 734: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45646
+test 735: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46354
+test 736: no_error_count: 12186, error_count: 8, ARE: 1.2319530843564845, counter_report: 44877
+test 737: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46338
+test 738: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45445
+test 739: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46421
+test 740: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45721
+test 741: no_error_count: 6691, error_count: 5503, ARE: 1.608586538424239, counter_report: 43666
+test 742: no_error_count: 12186, error_count: 8, ARE: 1.0889243837223959, counter_report: 46428
+test 743: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45854
+test 744: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46408
+test 745: no_error_count: 12186, error_count: 8, ARE: 1.540214874061704, counter_report: 45737
+test 746: no_error_count: 12146, error_count: 48, ARE: 1.1489555975267696, counter_report: 45707
+test 747: no_error_count: 12186, error_count: 8, ARE: 1.119527058147891, counter_report: 45966
+test 748: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46390
+test 749: no_error_count: 12114, error_count: 80, ARE: 1.2886824120356573, counter_report: 45095
+test 750: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45784
+test 751: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46070
+test 752: no_error_count: 11669, error_count: 525, ARE: 1.5415965368572564, counter_report: 44316
+test 753: no_error_count: 12066, error_count: 128, ARE: 1.1171452185958575, counter_report: 45780
+test 754: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45406
+test 755: no_error_count: 12158, error_count: 36, ARE: 1.694508301248463, counter_report: 44714
+test 756: no_error_count: 12186, error_count: 8, ARE: 1.1042045521792816, counter_report: 45062
+test 757: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46426
+test 758: no_error_count: 12118, error_count: 76, ARE: 1.29443919258268, counter_report: 45089
+test 759: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45680
+test 760: no_error_count: 12002, error_count: 192, ARE: 1.7827692685731986, counter_report: 44794
+test 761: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45700
+test 762: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46336
+test 763: no_error_count: 12178, error_count: 16, ARE: 0.9648650762009999, counter_report: 45742
+test 764: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45640
+test 765: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46622
+test 766: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45682
+test 767: no_error_count: 11988, error_count: 206, ARE: 1.828463127782251, counter_report: 44212
+test 768: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44977
+test 769: no_error_count: 12138, error_count: 56, ARE: 1.3576385187802624, counter_report: 44869
+test 770: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45886
+test 771: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44542
+test 772: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45652
+test 773: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45463
+test 774: no_error_count: 12098, error_count: 96, ARE: 1.3083795401663783, counter_report: 44939
+test 775: no_error_count: 12130, error_count: 64, ARE: 1.3005247078098323, counter_report: 45429
+test 776: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45576
+test 777: no_error_count: 12193, error_count: 1, ARE: 0, counter_report: 45061
+test 778: no_error_count: 12186, error_count: 8, ARE: 1.0171746626428546, counter_report: 45504
+test 779: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45782
+test 780: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45461
+test 781: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46056
+test 782: no_error_count: 12178, error_count: 16, ARE: 1.0336231890598444, counter_report: 44709
+test 783: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46138
+test 784: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45341
+test 785: no_error_count: 10052, error_count: 2142, ARE: 1.332570652864872, counter_report: 45075
+test 786: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45387
+test 787: no_error_count: 12170, error_count: 24, ARE: 1.0022298971155434, counter_report: 46071
+test 788: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46440
+test 789: no_error_count: 12190, error_count: 4, ARE: 0.8119732190723415, counter_report: 44778
+test 790: no_error_count: 11796, error_count: 398, ARE: 1.3026106350757183, counter_report: 45140
+test 791: no_error_count: 12178, error_count: 16, ARE: 1.1028935061944758, counter_report: 45368
+test 792: no_error_count: 12186, error_count: 8, ARE: 1.2453918280278193, counter_report: 45110
+test 793: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46393
+test 794: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46098
+test 795: no_error_count: 11417, error_count: 777, ARE: 1.3040481524502094, counter_report: 44066
+test 796: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44993
+test 797: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46246
+test 798: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45894
+test 799: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45816
+test 800: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45297
+test 801: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46064
+test 802: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45999
+test 803: no_error_count: 12186, error_count: 8, ARE: 1.2093507007172988, counter_report: 45670
+test 804: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45738
+test 805: no_error_count: 11990, error_count: 204, ARE: 1.2549088662839483, counter_report: 45507
+test 806: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45384
+test 807: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46081
+test 808: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46196
+test 809: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45631
+test 810: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45416
+test 811: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45455
+test 812: no_error_count: 8180, error_count: 4014, ARE: 1.4228287991532085, counter_report: 44620
+test 813: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46160
+test 814: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46300
+test 815: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46034
+test 816: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46176
+test 817: no_error_count: 12154, error_count: 40, ARE: 0.9715435480178094, counter_report: 45338
+test 818: no_error_count: 12183, error_count: 11, ARE: 0.6683361233398145, counter_report: 43016
+test 819: no_error_count: 12186, error_count: 8, ARE: 1.5817191753391033, counter_report: 44424
+test 820: no_error_count: 12178, error_count: 16, ARE: 1.2565023713922185, counter_report: 45231
+test 821: no_error_count: 12178, error_count: 16, ARE: 1.19901113379938, counter_report: 45392
+test 822: no_error_count: 12090, error_count: 104, ARE: 1.328738158253952, counter_report: 44608
+test 823: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45596
+test 824: no_error_count: 12186, error_count: 8, ARE: 0.9614259834261538, counter_report: 46044
+test 825: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45995
+test 826: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45676
+test 827: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44429
+test 828: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45010
+test 829: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46162
+test 830: no_error_count: 12087, error_count: 107, ARE: 1.6069425729253803, counter_report: 44831
+test 831: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45698
+test 832: no_error_count: 6562, error_count: 5632, ARE: 1.6221250043045272, counter_report: 44307
+test 833: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46149
+test 834: no_error_count: 11613, error_count: 581, ARE: 0.8047851703141221, counter_report: 39061
+test 835: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45464
+test 836: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46311
+test 837: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44699
+test 838: no_error_count: 12186, error_count: 8, ARE: 1.8257103878497851, counter_report: 45217
+test 839: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46050
+test 840: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45922
+test 841: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46221
+test 842: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44509
+test 843: no_error_count: 12130, error_count: 64, ARE: 1.1391512271594602, counter_report: 46172
+test 844: no_error_count: 12178, error_count: 16, ARE: 0.9249295298394841, counter_report: 45563
+test 845: no_error_count: 12130, error_count: 64, ARE: 1.071559589346784, counter_report: 45468
+test 846: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45490
+test 847: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46060
+test 848: no_error_count: 12184, error_count: 10, ARE: 0.6955207246504632, counter_report: 45640
+test 849: no_error_count: 12186, error_count: 8, ARE: 1.5317097070325723, counter_report: 45604
+test 850: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45807
+test 851: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45529
+test 852: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46406
+test 853: no_error_count: 12186, error_count: 8, ARE: 1.1639546884901149, counter_report: 45374
+test 854: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46001
+test 855: no_error_count: 12182, error_count: 12, ARE: 0.882040768287019, counter_report: 45070
+test 856: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46026
+test 857: no_error_count: 12186, error_count: 8, ARE: 0.8565792411960429, counter_report: 45496
+test 858: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45756
+test 859: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45690
+test 860: no_error_count: 12162, error_count: 32, ARE: 1.0817544959781475, counter_report: 45246
+test 861: no_error_count: 12162, error_count: 32, ARE: 1.0675582484793031, counter_report: 45859
+test 862: no_error_count: 12186, error_count: 8, ARE: 1.289941530646482, counter_report: 45218
+test 863: no_error_count: 12189, error_count: 5, ARE: 0.5005330767107714, counter_report: 44613
+test 864: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46075
+test 865: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45354
+test 866: no_error_count: 12154, error_count: 40, ARE: 1.0533005343198591, counter_report: 45994
+test 867: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46236
+test 868: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46087
+test 869: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45722
+test 870: no_error_count: 12078, error_count: 116, ARE: 1.2038869584545626, counter_report: 45805
+test 871: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45560
+test 872: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45429
+test 873: no_error_count: 12170, error_count: 24, ARE: 1.0439737885533622, counter_report: 45189
+test 874: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46606
+test 875: no_error_count: 12066, error_count: 128, ARE: 1.667489033707767, counter_report: 45164
+test 876: no_error_count: 12186, error_count: 8, ARE: 1.1482031243276543, counter_report: 46083
+test 877: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45450
+test 878: no_error_count: 12154, error_count: 40, ARE: 1.221691999471164, counter_report: 45616
+test 879: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46404
+test 880: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46067
+test 881: no_error_count: 12170, error_count: 24, ARE: 1.3813613722911124, counter_report: 46035
+test 882: no_error_count: 12186, error_count: 8, ARE: 0.9055640177161313, counter_report: 45110
+test 883: no_error_count: 12190, error_count: 4, ARE: 0.6640815094045567, counter_report: 43714
+test 884: no_error_count: 12094, error_count: 100, ARE: 1.2360478115096754, counter_report: 43675
+test 885: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46009
+test 886: no_error_count: 12154, error_count: 40, ARE: 1.5518898815037456, counter_report: 45526
+test 887: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46048
+test 888: no_error_count: 5365, error_count: 6829, ARE: 1.7689443467184296, counter_report: 43585
+test 889: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44403
+test 890: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 42520
+test 891: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45707
+test 892: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45882
+test 893: no_error_count: 12086, error_count: 108, ARE: 1.3022592089885445, counter_report: 45389
+test 894: no_error_count: 11869, error_count: 325, ARE: 1.639984182882174, counter_report: 44409
+test 895: no_error_count: 12190, error_count: 4, ARE: 0.6867659144961732, counter_report: 45712
+test 896: no_error_count: 11794, error_count: 400, ARE: 1.940259045821437, counter_report: 44208
+test 897: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45771
+test 898: no_error_count: 11191, error_count: 1003, ARE: 1.5259713155499208, counter_report: 44295
+test 899: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46062
+test 900: no_error_count: 12162, error_count: 32, ARE: 1.1847473248903033, counter_report: 45453
+test 901: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45839
+test 902: no_error_count: 12186, error_count: 8, ARE: 2.1993648527907514, counter_report: 44211
+test 903: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46187
+test 904: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45905
+test 905: no_error_count: 12178, error_count: 16, ARE: 1.137827275428072, counter_report: 45621
+test 906: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45449
+test 907: no_error_count: 12100, error_count: 94, ARE: 1.2902659722422496, counter_report: 44016
+test 908: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44370
+test 909: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46094
+test 910: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46228
+test 911: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45824
+test 912: no_error_count: 12012, error_count: 182, ARE: 1.0905674703889585, counter_report: 45530
+test 913: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45223
+test 914: no_error_count: 12186, error_count: 8, ARE: 0.7785746728733884, counter_report: 45833
+test 915: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45036
+test 916: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45485
+test 917: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45377
+test 918: no_error_count: 12140, error_count: 54, ARE: 1.1590302792299851, counter_report: 43815
+test 919: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46300
+test 920: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45422
+test 921: no_error_count: 12154, error_count: 40, ARE: 1.020411018207047, counter_report: 45991
+test 922: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45892
+test 923: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46128
+test 924: no_error_count: 12154, error_count: 40, ARE: 1.6207275760365505, counter_report: 44371
+test 925: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45448
+test 926: no_error_count: 12170, error_count: 24, ARE: 1.514155138555873, counter_report: 44891
+test 927: no_error_count: 12102, error_count: 92, ARE: 1.8485315993577103, counter_report: 44269
+test 928: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46323
+test 929: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46227
+test 930: no_error_count: 12178, error_count: 16, ARE: 0.986111480192316, counter_report: 44653
+test 931: no_error_count: 11393, error_count: 801, ARE: 1.611852579963403, counter_report: 43851
+test 932: no_error_count: 6284, error_count: 5910, ARE: 1.3988278259998694, counter_report: 41717
+test 933: no_error_count: 12187, error_count: 7, ARE: 0.7746218862359869, counter_report: 45014
+test 934: no_error_count: 12122, error_count: 72, ARE: 1.1419080442061675, counter_report: 45719
+test 935: no_error_count: 12178, error_count: 16, ARE: 1.3331622003128099, counter_report: 45492
+test 936: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46254
+test 937: no_error_count: 12106, error_count: 88, ARE: 1.201046129375707, counter_report: 44857
+test 938: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46630
+test 939: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45140
+test 940: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45947
+test 941: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45903
+test 942: no_error_count: 12193, error_count: 1, ARE: 0, counter_report: 43538
+test 943: no_error_count: 12162, error_count: 32, ARE: 1.256707763906538, counter_report: 45774
+test 944: no_error_count: 12186, error_count: 8, ARE: 1.0957676318521243, counter_report: 46558
+test 945: no_error_count: 3827, error_count: 8367, ARE: 1.7401846049726855, counter_report: 43537
+test 946: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46031
+test 947: no_error_count: 12186, error_count: 8, ARE: 0.9929906573365865, counter_report: 45575
+test 948: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45981
+test 949: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46169
+test 950: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45985
+test 951: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45085
+test 952: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45847
+test 953: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46118
+test 954: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45788
+test 955: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46123
+test 956: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46159
+test 957: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46357
+test 958: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45633
+test 959: no_error_count: 12186, error_count: 8, ARE: 0.9547462387639061, counter_report: 45320
+test 960: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45901
+test 961: no_error_count: 12162, error_count: 32, ARE: 1.4053144262804835, counter_report: 44299
+test 962: no_error_count: 12186, error_count: 8, ARE: 1.2053938455336306, counter_report: 46113
+test 963: no_error_count: 12162, error_count: 32, ARE: 1.8272434550846102, counter_report: 44680
+test 964: no_error_count: 12178, error_count: 16, ARE: 1.330715138050257, counter_report: 44803
+test 965: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45193
+test 966: no_error_count: 12111, error_count: 83, ARE: 1.6848479501153992, counter_report: 44771
+test 967: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45019
+test 968: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46288
+test 969: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46416
+test 970: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45714
+test 971: no_error_count: 12178, error_count: 16, ARE: 1.1782769081126654, counter_report: 45129
+test 972: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46035
+test 973: no_error_count: 12066, error_count: 128, ARE: 1.2462923819423226, counter_report: 45085
+test 974: no_error_count: 12154, error_count: 40, ARE: 1.0971411978031766, counter_report: 45058
+test 975: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45934
+test 976: no_error_count: 6491, error_count: 5703, ARE: 1.6071421988901236, counter_report: 44295
+test 977: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45873
+test 978: no_error_count: 11907, error_count: 287, ARE: 1.42493615488428, counter_report: 44988
+test 979: no_error_count: 12154, error_count: 40, ARE: 1.0333502501850105, counter_report: 45413
+test 980: no_error_count: 12178, error_count: 16, ARE: 1.3373473406670429, counter_report: 45814
+test 981: no_error_count: 12186, error_count: 8, ARE: 0.8520819493587427, counter_report: 45773
+test 982: no_error_count: 12178, error_count: 16, ARE: 1.7035021749981305, counter_report: 45899
+test 983: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45432
+test 984: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45986
+test 985: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45624
+test 986: no_error_count: 12162, error_count: 32, ARE: 2.153430550455994, counter_report: 44048
+test 987: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45810
+test 988: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45701
+test 989: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 44723
+test 990: no_error_count: 12170, error_count: 24, ARE: 1.2579041889986804, counter_report: 44565
+test 991: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45229
+test 992: no_error_count: 12186, error_count: 8, ARE: 1.0467121414524325, counter_report: 45588
+test 993: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 45672
+test 994: no_error_count: 12162, error_count: 32, ARE: 1.3363348737421044, counter_report: 45120
+test 995: no_error_count: 12162, error_count: 32, ARE: 1.3035174196075345, counter_report: 45913
+test 996: no_error_count: 12162, error_count: 32, ARE: 1.0641039954705493, counter_report: 45442
+test 997: no_error_count: 12178, error_count: 16, ARE: 2.209457917693314, counter_report: 44638
+test 998: no_error_count: 12170, error_count: 24, ARE: 1.309477366698636, counter_report: 44969
+test 999: no_error_count: 11942, error_count: 252, ARE: 1.7242252544224559, counter_report: 44534
+test 1000: no_error_count: 12194, error_count: 0, ARE: 0, counter_report: 46137

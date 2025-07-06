@@ -21,13 +21,13 @@ max_ports_per_flow = 288
 
 # ------------------- 小流参数部分（单位 KB） -------------------
 # 定义小流的大小范围，从 10KB 到 100KB
-small_size_range = (1, 8000)
+small_size_range = (8000, 8000)
 # 定义小流每个数据包的大小为 1KB
 small_packet_size_kb = 1
 
 # ------------------- 大流参数部分（单位 GB -> KB） -------------------
 # 定义大流的大小范围，从 10GB 到 100GB，转换为 KB
-large_size_range = (1 * 1024 * 1024, 625 * 1024 * 1024)
+large_size_range = (625 * 10000, 625 * 10000)
 # 定义大流每个数据包的大小为 1.5KB
 large_packet_size_kb = 1
 
@@ -64,6 +64,8 @@ def generate_packets(flow_id, total_bytes, packet_bytes, ports):
     # 以num参数为64进行分片
     slice_num=64
 
+    seq_len=10
+
     # 遍历每个端口及其对应的数据包数量
     for i, port in enumerate(ports):
         size = packet_counts[i]
@@ -80,14 +82,14 @@ def generate_packets(flow_id, total_bytes, packet_bytes, ports):
         if size_slice==0 and size_last==0: # 当size为0时，不生成数据包,并且后续端口肯定也为0，直接退出循环
             break
 
-        if size_slice <= 4: # 当size为0时，不生成数据包
-            # 若该端口的数据包数量小于等于 4，则生成对应数量的数据包，每个数据包大小为 slice_num
+        if size_slice <= seq_len: # 当size为0时，不生成数据包
+            # 若该端口的数据包数量小于等于 seq_len，则生成对应数量的数据包，每个数据包大小为 slice_num
             packet_seq.append([(flow_id, port, slice_num)] * size_slice)
         else:
-            # 若该端口的数据包数量大于 4，先生成 4 个大小为 slice_num 的数据包
-            first_part = [(flow_id, port, slice_num)] * 4
+            # 若该端口的数据包数量大于 seq_len，先生成 seq_len 个大小为 slice_num 的数据包
+            first_part = [(flow_id, port, slice_num)] * seq_len
             # 再生成一个大小为剩余数据包数的数据包
-            remainder = [(flow_id, port, (size_slice - 4) * slice_num)]
+            remainder = [(flow_id, port, (size_slice - seq_len) * slice_num)]
             packet_seq.append(first_part + remainder)
 
         # 如果还有剩余的大小，则添加最后一个数据包

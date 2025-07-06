@@ -6,7 +6,7 @@
 ---
 
 ## 1. 目标
-构造模拟网络流量的包级数据文件 `flow_port_mixed.txt`，用于测试 Bloom + CM Sketch 结构的插入与上报效果。每条数据为：
+构造模拟网络流量的包级数据文件 `flow_port_mixedv2.txt`，用于测试 HashTable + Bloom + CM Sketch 结构的插入与上报效果。每条数据为：
 
 ```
 flow_id port_id size
@@ -21,16 +21,12 @@ flow_id port_id size
 ## 2. 流类型设计
 数据集中包含两类流：
 
-| 流类型 | 字节范围 | 包大小 | 子流比例 | 子流端口数 |
-|--------|-----------|--------|-----------|-------------|
-| 小流   | 10–100 KB | 1 KB    | 93%       | 64–288 个端口 |
-| 大流   | 10–100 GB | 1.5 KB  | 7%        | 64–288 个端口 |
+| 流类型 | 包数量 | 比例 | 子流端口数 |
+|--------|--------|-----------|-------------|
+| 小流   | 8000    | 90%       | 64–288 个端口 |
+| 大流   | 625万   | 10%        | 64–288 个端口 |
 
 - 每条流的字节数将被随机分配到多个端口，形成多个子流；
-- 为确保 **最终子流级别的大流比例为 7%**，构造流程中将：
-  - 控制大流在高字节范围内产生更多包；
-  - 控制小流更短且分布更均匀，形成多个 size ≤ 4 的子流；
-  - 在流生成完毕后统计所有子流并调整比例，保留大流子流占总子流数量约为 7%；
 
 ---
 
@@ -38,16 +34,16 @@ flow_id port_id size
 ### 步骤 1：分配端口
 每条流随机选择 64～288 个端口作为其子流分支。
 
-### 步骤 2：字节划分与轮转分配
-- 按包大小（1KB/1.5KB）计算总包数；
+### 步骤 2：子流划分与轮转分配
+- 获取每流总包数；
 - 将包数轮转分配到每个端口，保证：
   - 包总数与字节数匹配；
   - 前若干端口可能多 1 包。
 
 ### 步骤 3：子流聚合规则（可选）
 - (为了降低数据包数量太大带来的生成数据程序的时间复杂度和空间复杂度，我们将每个子流的包数量进行压缩，压缩规则如下：)
-- 若一个子流的包数 ≤ 4：每个包都单独记录为 size=1；
-- 若包数 > 4：前 4 个包记录为 size=1，其余聚合为 size=n-4（压缩记录）。
+- 子流按较小slice_num（如固定64或者随机）个包进行切分，分成多段，既保证粒度也保证压缩率；
+- 当slice_num较小时，设定段的长度seq_len，最后一段进行聚合 $size=n-\sum^{seq_len}_{i=1}size_i$（压缩记录）。
 
 ### 步骤 4：写入顺序控制
 - 所有子流轮转插入，交错排列；
@@ -56,48 +52,61 @@ flow_id port_id size
 ---
 
 ## 4. 示例输出
+小流示例：
 ```
-1000000032 91 1
-1000000032 91 1
-1000000032 91 1
-1000000032 91 1
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
 1000000032 91 24
 ...
 ```
-- 表示 flow_id 为 1000000032 的流，在 port 91 上产生了 28 个包：
-  - 前 4 个包为首包阶段（size=1）
-  - 后续 24 个包压缩为一行（size=24）
+- 表示 flow_id 为 1000000032 的流，在 port 91 上产生了 64+64+64+64+24=164 个包：
+  - 前 4 个段为64个包
+  - 后续 24 个包压缩为一段（size=24）
 
----
+大流示例：
+```
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 64
+1000000032 91 6250000
+...
+```
+- 表示 flow_id 为 1000000032 的流，在 port 91 上产生了 6250640 个包：
+  - 前 10 个段为64个包
+  - 后续 6250000 个包压缩为一段
 
 ## 5. 输出文件格式
-- 文件名：`flow_port_mixed.txt`
+- 文件名：`flow_port_mixedv2.txt`
 - 编码格式：UTF-8
 - 每行格式：`flow_id port_id packet_count`
-- 行数 ≈ 包总数（聚合后）
 
 ---
 
 ## 6. 典型配置参数
 | 参数         | 数值范围       |
 |--------------|----------------|
-| 流数量       | 默认 2,000 条（需调整） |
+| 流数量       | 默认 1,200 条（需调整） |
 | port号范围    | 1-288       |
-| 小流比例     | 97%-98%（需调整）            |
-| 大流比例     | 2%-3%（需调整）             |
-| 子流中小流比例     | 93%            |
-| 子流中大流比例     | 7%             |
-| 包大小       | 1 KB / 1.5 KB  |
-| 流字节数范围 | 10KB–100GB     |
+| 小流比例     | 90%            |
+| 大流比例     | 10%             |
+| 子流中小流比例     | 91%            |
+| 子流中大流比例     | 9%             |
 
 
--流数量需调整使其分端口后子流数量约为 120,000 条；
-- 小流比例需调整使其分端口后小流子流数量约占93%；
-- 大流比例需调整使其分端口后大流子流数量约占7%。
+-流数量需调整使其分端口后子流数量约为 120,000 条。
 
 ## 7. 后续用途
 该数据集可用于：
-- 数据平面 Sketch 插入测试（触发 Bloom/CMS）
+- 数据平面 Sketch 插入测试（触发 HashTable/Bloom/CMS）
 - 解码算法测试（decoder + control plane）
 - 精细化子流分类修正分析（如 refine eq2）
 
@@ -107,19 +116,23 @@ flow_id port_id size
 
 # 二、数据平面结构说明文档
 
-本说明文档详细介绍数据平面中用于流量估计与上报触发的四级 Sketch 结构，包括其模块组成、插入判断逻辑、上报机制与应用场景。
+本说明文档详细介绍数据平面中用于流量估计与上报触发的五级 Sketch 结构，包括其模块组成、插入判断逻辑、上报机制与应用场景。
 
 ---
 
 ## 1. 总体结构概览
 
-数据平面结构为 **三级 Bloom Filter + 一层 Count-Min Sketch (CM Sketch)** 的分级设计。
+数据平面结构为 **一层 HashTable + 三级 Bloom Filter + 一层 Count-Min Sketch (CM Sketch)** 的分级设计。
+
+- 哈希表：用于压缩流大小，用上报冲突的频次换空间和准确率。
+- 前三层 Bloom Filter：用于判断流是否“见过”，减少后续计数。
+- 最后一层 Count-Min Sketch：用于流量计数与触发上报。
 
 ```
-┌────────────┐      ┌────────────┐      ┌────────────┐      ┌────────────┐
-│ BloomFilter│ ──→ │ BloomFilter│ ──→ │ BloomFilter│ ──→ │ CountMinSketch │
-│    L1      │      │    L2      │      │    L3      │      │     L4       │
-└────────────┘      └────────────┘      └────────────┘      └──────────────┘
+┌────────────┐      ┌────────────┐      ┌────────────┐     ┌────────────┐      ┌───────────┐
+│  HashTable │ ──→  │ BloomFilter│ ──→  │ BloomFilter│ ──→ │ BloomFilter│ ──→  │ CM Sketch │
+│    L0      │      │    L1      │      │    L2      │     │    L3      │      │     L4    │
+└────────────┘      └────────────┘      └────────────┘     └────────────┘      └───────────┘
 ```
 
 每一级依次判断是否已“见过”流（通过哈希判断），若未见过即触发上报并停止流入更深层；
@@ -128,6 +141,15 @@ flow_id port_id size
 ---
 
 ## 2. 模块参数与定义
+
+### HashTable（第0层）
+
+- 参数：
+  - `size`: 哈希表大小（推荐 2,000）
+  - 存储的键值对：
+    - `key`: 流标识符（如 压缩后的flow_id，32bit）
+    - `value`: 流大小（包数，8bit）
+  - `overflow_threshold`: 溢出阈值（推荐 2^8）
 
 ### BloomFilter（第1-3层）
 
@@ -154,7 +176,24 @@ flow_id port_id size
 
 ### 插入函数 `insert(flow_id, value=1)`：
 
+
 ```python
+
+if entry is None:
+  self.table[idx] = (flow_id, value%(self.overflow_threshold))
+else:
+  if entry[0]==flow_id:
+    if value+entry[1] >= self.overflow_threshold:
+      insert_bloom_cms(flow_id,1)
+    self.table[idx] = (flow_id, (entry[1]+value)%(self.overflow_threshold))
+  else:
+    # 冲突：上报旧条目，替换为新值
+    self.conflicted.append((entry[0], entry[1]))
+    self.table[idx] = (flow_id, value%(self.overflow_threshold))
+```
+
+```python
+
 if not bloom1.contains(flow_id):
     report(level=1)
     bloom1.insert(flow_id)
@@ -215,15 +254,17 @@ self.reported_to_control_plane = {
 
 | 层级 | 类型 | 长度参数 | 哈希数 | 空间公式 | 示例大小 |
 |------|------|----------|--------|-----------|------------|
-| L1   | Bloom | m1       | k1     | m1 bits   | 200,000 bits (25 KB) |
-| L2   | Bloom | m2       | k2     | m2 bits   | 100,000 bits (12.5 KB) |
+| L0   | HashTable  | size     | 1      | size × 40 bits | 2,000 × 40 bits = 80,000 bits (10 KB) |
+| L1   | Bloom | m1       | k1     | m1 bits   | 160,000 bits (20 KB) |
+| L2   | Bloom | m2       | k2     | m2 bits   | 60,000 bits (7.5 KB) |
 | L3   | Bloom | m3       | k3     | m3 bits   | 40,000 bits (5 KB)  |
-| L4   | CM    | d×w      | d      | d×w×b bits | 3×6,000×20 bits = 360,000(45 KB) |
+| L4   | CM    | d×w      | d      | d×w×b bits | 3×10,000×12 bits = 360,000(45 KB) |
 
 ---
 
 ## 7. 典型应用与优势
 
+- hashtable通过压缩进入后续结构流大小，以上报频率换取空间和准确率；
 - 多级 Bloom 屏蔽大部分流重复上报，控制 plane 负载降低；
 - Bloom 误报会少量影响控制面上传，但通过多级bloom使误判可控；
 - 对真正活跃流（如大流）可快速穿透进入 CM 记录；
@@ -257,6 +298,7 @@ self.reported_to_control_plane = {
 
 | 层级 | 上报条件 | 示例值 |
 |------|----------|--------|
+| L0   | HashTable 冲突 | `report[0].add(flow_id,size)` |
 | L1   | Bloom1 未命中 | `report[1].add(flow_id)` |
 | L2   | Bloom2 未命中 | `report[2].add(flow_id)` |
 | L3   | Bloom3 未命中 | `report[3].add(flow_id)` |
@@ -368,7 +410,7 @@ if both counters = 5, and only mapped by this flow:
 
 # 四、模拟实验与结果分析说明文档
 
-本说明文档描述了使用四级 Bloom+CM Sketch 结构进行网络流测量实验的完整流程，包括实验步骤、评估指标与结果分析方法。该流程适用于测试子流上报准确率、解码性能与误差控制能力。
+本说明文档描述了使用五级 Hashtable+Bloom+CM Sketch 结构进行网络流测量实验的完整流程，包括实验步骤、评估指标与结果分析方法。该流程适用于测试子流上报准确率、解码性能与误差控制能力。
 
 ---
 
@@ -395,7 +437,7 @@ if both counters = 5, and only mapped by this flow:
 
 ### 步骤 1：构造数据集
 
-使用 `getelephantflowdata.py` 脚本生成 `flow_port_mixed.txt`：
+使用 `getelephantflowdatav2.py` 脚本生成 `flow_port_mixedv2.txt`：
 
 - 含小流 / 大流；
 - 每流被拆为多个端口子流；
@@ -444,19 +486,26 @@ if both counters = 5, and only mapped by this flow:
 ## 4. 样例输出格式（控制台）
 
 ```
-{'k1': 2, 'k2': 2, 'k3': 2, 'd4': 3, 'm1': 200000, 'm2': 100000, 'm3': 40000, 'w4': 5000}
-Size 1: 110289
-Size 2: 702
-Size > 2: 8413
+
+Max value: 255
+used primes: {}
+Available primes: [6296197, 2254201, 7672057, 1002343, 9815713, 3436583, 4359587, 5638753, 8155451, 1542091, 3821407, 9382951, 5844031, 4996559, 8137219]
+Overflow flows count: 12338
+Collision flows count: 267773
+Max count in Count-Min Sketch: 906
+Size 1: 0
+Size 2: 0
+Size > 2: 12329
 Report Count per Level:
-  Level 1: 96261 flows reported
-  Level 2: 27208 flows reported
-  Level 3: 8305 flows reported
-  Level 4: 6897 flows reported
+  Level 1: 12269 flows reported
+  Level 2: 11985 flows reported
+  Level 3: 11549 flows reported
+  Level 4: 11252 flows reported
+Dataplane Report: 47055 flows reported
 
 False Positive Rate Estimation:
-  true total: 119404
-  reported total: 119404
+  true total: 12329
+  reported total: 12329
   false positives: 0
   false negatives: 0
   false positive rate: 0.0000
@@ -465,39 +514,46 @@ False Positive Rate Estimation:
 Analysis of Reported Flows:
 
 Analysis of Single-Report Flows:
-  Total Queried Once with Value 1: 110311
-  False Positives: 22
-  True Positives: 110289
-  False Positive Rate: 0.0002
+  Total Queried Once with Value 1: 9
+  False Positives: 9
+  True Positives: 0
+  False Positive Rate: 1.0000
 
 Analysis of Double-Report Flows:
-  Total Queried Twice with Value 2: 1279
-  False Positives: 578
-  True Positives: 701
-  False Positive Rate: 0.4519
+  Total Queried Twice with Value 2: 165
+  False Positives: 165
+  True Positives: 0
+  False Positive Rate: 1.0000
 
 Analysis of Three-or-More-Report Flows:
-  Total Queried Three or More: 7814
-  False Positives: 1
-  True Positives: 7813
-  False Positive Rate: 0.0001
+  Total Queried Three or More: 12155
+  False Positives: 0
+  True Positives: 12155
+  False Positive Rate: 0.0000
 
 === After refine_eq2_with_fid_majority ===
-Size 1: 110289
-Refined Size 2: 701
-Refined Size > 2: 8414
+Size 1: 0
+Refined Size 2: 0
+Refined Size > 2: 12329
 === Refined vs Ground Truth Classification Accuracy ===
-Size = 1     | TP: 110289, FP: 0, FN: 0, Accuracy: 1.0000
-Size = 2     | TP: 701, FP: 0, FN: 1, Accuracy: 1.0000
-Size > 2     | TP: 8413, FP: 1, FN: 0, Accuracy: 0.9999
-Decoded flows: 8414
+Size = 1     | TP: 0, FP: 0, FN: 0, Accuracy: 0.0000
+Size = 2     | TP: 0, FP: 0, FN: 0, Accuracy: 0.0000
+Size > 2     | TP: 12329, FP: 0, FN: 0, Accuracy: 1.0000
+Decoded flows: 12329
 Undecoded flows: 0
 
 Analysis of Decoded Flows:
-  Total Decoded: 8414
+  Total Decoded: 12329
   Average Relative Error: 0.0000
-  Accurate Decoded: 8413
-  Counter Accuracy: 0.9999
+  Accurate Decoded: 12329
+  Counter Accuracy: 1.0000
+906
+no error count: 0
+no error count: 0
+no error count: 120808
+error count: 0
+average RE: 0
+
 ```
 
 ---
@@ -512,7 +568,7 @@ Analysis of Decoded Flows:
 | FN rate          | FN / True set                  |
 | FP rate          | FP / Reported set              |
 | 解码成功率       | 被 decoder 解出的子流占比       |
-| 解码平均误差（ARE） | ∑|估值-真实| / 真实总和         |
+<!-- | 解码平均误差（ARE） | $\sum \frac{\|估值-真实\|} {真实总和} $        | -->
 等
 ---
 
@@ -530,22 +586,23 @@ Analysis of Decoded Flows:
 
 | 模块 | 文件 |
 |------|------|
-| 数据生成 | getelephantflowdata.py |
-| 数据平面结构 | bloom_cm.py |
+| 数据生成 | getelephantflowdatav2.py |
+| 数据平面结构 | bloom_cmv2.py |
 | 控制与解码 | decoder.py |
-| 主控与分析 | test_bc.py |
+| 主控与分析 | test_bcv2.py |
 
 ---
 
 # 结果
 
 ## 重复实验1000次，实验结果如下：
+子流总数量为：120808
 ### 1000次实验下，无误差的子流数量的CDF图：
-平均无误差的子流数量 average no_error_count: 119324.755
+平均无误差的子流数量 average no_error_count: 120777.52
 ![image.png](./no_error_count_cdf.png)
 
 ### 1000次实验下，有误差的子流数量的CDF图：
-平均有误差的子流数量 average error_count: 79.245
+平均有误差的子流数量 average error_count: 30.48
 ![image.png](./error_count_cdf.png)
 
 <!-- ### 1000次实验下，有误差的流的平均误差的CDF图：

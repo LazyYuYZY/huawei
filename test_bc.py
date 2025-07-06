@@ -17,6 +17,8 @@ fpp1 = 0.3
 fpp2 = 0.3
 fpp3 = 0.3
 
+slice_num = 64  # 数据集的切片大小
+
 # 初始化一个字典，存储各种参数，如布隆过滤器的哈希函数数量、位数组大小等
 parameters = {
     'k1': 2, 'k2': 2, 'k3': 2, 'd4': 3, 'm1': 200000, 'm2': 100000, 'm3': 40000, 'w4': 6000 
@@ -57,7 +59,7 @@ def classify_subflows_by_size(path):
 
     # 遍历记录子流大小的字典
     for key, count in subflow_size.items():
-        if count == 1:
+        if count ==1:
             # 若子流大小等于1，添加到 eq_1_set 集合
             eq_1_set.add(key)
         elif count == 2:
@@ -540,18 +542,18 @@ if __name__ == "__main__":
     # 日志文件
     log_file = "log.txt"
 
-    for i in range(test_number):
-        no_error_count,error_count,ARE,counter_report=main()
-        AREs.append(ARE)
-        no_error_counts.append(no_error_count)
-        error_counts.append(error_count)
-        counter_reports.append(counter_report)
-        # 写入日志文件
-        with open(log_file, "a") as f:
-            f.write(f"test {i+1}: no_error_count: {no_error_count}, error_count: {error_count}, ARE: {ARE}, counter_report: {counter_report}\n")
+    # for i in range(test_number):
+    #     no_error_count,error_count,ARE,counter_report=main()
+    #     AREs.append(ARE)
+    #     no_error_counts.append(no_error_count)
+    #     error_counts.append(error_count)
+    #     counter_reports.append(counter_report)
+    #     # 写入日志文件
+    #     with open(log_file, "a") as f:
+    #         f.write(f"test {i+1}: no_error_count: {no_error_count}, error_count: {error_count}, ARE: {ARE}, counter_report: {counter_report}\n")
 
-    counter_reports=np.array(counter_reports)
-    print(f"average counter report: {np.mean(counter_reports)}")
+    # counter_reports=np.array(counter_reports)
+    # print(f"average counter report: {np.mean(counter_reports)}")
 
 
     # 读取日志文件
